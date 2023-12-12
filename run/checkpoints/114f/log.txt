@@ -4028,3 +4028,1087 @@ End of iteration 40280 	 Number of batches 20 	 Time taken: 2.84s
 [Average Loss] total: 0.0076387422   color: 0.0047589610   bg: 0.0021374710   origin: 0.0000000000   inverse_mapping: 0.0007423097   
 End of iteration 40300 	 Number of batches 20 	 Time taken: 2.85s
 [Average Loss] total: 0.0075064311   color: 0.0045187096   bg: 0.0021408161   origin: 0.0000000000   inverse_mapping: 0.0008469048   
+End of iteration 40320 	 Number of batches 20 	 Time taken: 3.31s
+[Average Loss] total: 0.0068597863   color: 0.0042407284   bg: 0.0017414773   origin: 0.0000000000   inverse_mapping: 0.0008775801   
+End of iteration 40340 	 Number of batches 20 	 Time taken: 3.44s
+[Average Loss] total: 0.0069178902   color: 0.0041662790   bg: 0.0019616326   origin: 0.0000000000   inverse_mapping: 0.0007899788   
+End of iteration 40360 	 Number of batches 20 	 Time taken: 2.84s
+[Average Loss] total: 0.0070004198   color: 0.0045110001   bg: 0.0017324314   origin: 0.0000000000   inverse_mapping: 0.0007569877   
+End of iteration 40380 	 Number of batches 20 	 Time taken: 2.89s
+[Average Loss] total: 0.0073940898   color: 0.0042843921   bg: 0.0022903944   origin: 0.0000000000   inverse_mapping: 0.0008193020   
+End of iteration 40400 	 Number of batches 20 	 Time taken: 2.85s
+[Average Loss] total: 0.0078341728   color: 0.0042647929   bg: 0.0026773971   origin: 0.0000000000   inverse_mapping: 0.0008919833   
+End of iteration 40420 	 Number of batches 20 	 Time taken: 3.74s
+[Average Loss] total: 0.0084034735   color: 0.0043595503   bg: 0.0032027126   origin: 0.0000000000   inverse_mapping: 0.0008412093   
+End of iteration 40440 	 Number of batches 20 	 Time taken: 3.09s
+[Average Loss] total: 0.0067350618   color: 0.0043539498   bg: 0.0015664621   origin: 0.0000000000   inverse_mapping: 0.0008146507   
+End of iteration 40460 	 Number of batches 20 	 Time taken: 2.89s
+[Average Loss] total: 0.0085211685   color: 0.0052861343   bg: 0.0023099328   origin: 0.0000000000   inverse_mapping: 0.0009251013   
+End of iteration 40480 	 Number of batches 20 	 Time taken: 2.89s
+[Average Loss] total: 0.0078127002   color: 0.0051852646   bg: 0.0016208772   origin: 0.0000000000   inverse_mapping: 0.0010065587   
+End of iteration 40500 	 Number of batches 20 	 Time taken: 3.29s
+[Average Loss] total: 0.0083460128   color: 0.0048920559   bg: 0.0025304144   origin: 0.0000000000   inverse_mapping: 0.0009235439   
+End of iteration 40520 	 Number of batches 20 	 Time taken: 3.59s
+[Average Loss] total: 0.0079812771   color: 0.0048500760   bg: 0.0021702289   origin: 0.0000000000   inverse_mapping: 0.0009609722   
+End of iteration 40540 	 Number of batches 20 	 Time taken: 2.85s
+[Average Loss] total: 0.0079206554   color: 0.0049576787   bg: 0.0021162217   origin: 0.0000000000   inverse_mapping: 0.0008467546   
+End of iteration 40560 	 Number of batches 20 	 Time taken: 2.94s
+[Average Loss] total: 0.0067152097   color: 0.0041552149   bg: 0.0017184637   origin: 0.0000000000   inverse_mapping: 0.0008415314   
+End of iteration 40580 	 Number of batches 20 	 Time taken: 3.87s
+[Average Loss] total: 0.0068163103   color: 0.0044271653   bg: 0.0016755073   origin: 0.0000000000   inverse_mapping: 0.0007136378   
+End of iteration 40600 	 Number of batches 20 	 Time taken: 4.93s
+[Average Loss] total: 0.0069837170   color: 0.0041546389   bg: 0.0020625638   origin: 0.0000000000   inverse_mapping: 0.0007665141   
+End of iteration 40620 	 Number of batches 20 	 Time taken: 2.85s
+[Average Loss] total: 0.0067060217   color: 0.0041102981   bg: 0.0018386388   origin: 0.0000000000   inverse_mapping: 0.0007570851   
+End of iteration 40640 	 Number of batches 20 	 Time taken: 2.89s
+[Average Loss] total: 0.0070867278   color: 0.0044586863   bg: 0.0018362672   origin: 0.0000000000   inverse_mapping: 0.0007917741   
+End of iteration 40660 	 Number of batches 20 	 Time taken: 2.83s
+[Average Loss] total: 0.0074651726   color: 0.0045469753   bg: 0.0021809756   origin: 0.0000000000   inverse_mapping: 0.0007372224   
+End of iteration 40680 	 Number of batches 20 	 Time taken: 3.37s
+[Average Loss] total: 0.0066992305   color: 0.0041770274   bg: 0.0017400380   origin: 0.0000000000   inverse_mapping: 0.0007821659   
+End of iteration 40700 	 Number of batches 20 	 Time taken: 3.39s
+[Average Loss] total: 0.0072955610   color: 0.0042234450   bg: 0.0022458059   origin: 0.0000000000   inverse_mapping: 0.0008263113   
+End of iteration 40720 	 Number of batches 20 	 Time taken: 2.85s
+[Average Loss] total: 0.0067029125   color: 0.0041295066   bg: 0.0018018059   origin: 0.0000000000   inverse_mapping: 0.0007715999   
+End of iteration 40740 	 Number of batches 20 	 Time taken: 2.84s
+[Average Loss] total: 0.0074681151   color: 0.0043635517   bg: 0.0023421033   origin: 0.0000000000   inverse_mapping: 0.0007624601   
+End of iteration 40760 	 Number of batches 20 	 Time taken: 2.84s
+[Average Loss] total: 0.0066742860   color: 0.0040821633   bg: 0.0018347085   origin: 0.0000000000   inverse_mapping: 0.0007574155   
+End of iteration 40780 	 Number of batches 20 	 Time taken: 3.82s
+[Average Loss] total: 0.0068881847   color: 0.0043040635   bg: 0.0018272590   origin: 0.0000000000   inverse_mapping: 0.0007568618   
+End of iteration 40800 	 Number of batches 20 	 Time taken: 2.96s
+[Average Loss] total: 0.0067849793   color: 0.0043064160   bg: 0.0016475598   origin: 0.0000000000   inverse_mapping: 0.0008310033   
+End of iteration 40820 	 Number of batches 20 	 Time taken: 2.84s
+[Average Loss] total: 0.0070599290   color: 0.0046850513   bg: 0.0015883626   origin: 0.0000000000   inverse_mapping: 0.0007865146   
+End of iteration 40840 	 Number of batches 20 	 Time taken: 2.83s
+[Average Loss] total: 0.0075226496   color: 0.0043412270   bg: 0.0023360269   origin: 0.0000000000   inverse_mapping: 0.0008453949   
+End of iteration 40860 	 Number of batches 20 	 Time taken: 3.22s
+[Average Loss] total: 0.0071545527   color: 0.0040037902   bg: 0.0022625143   origin: 0.0000000000   inverse_mapping: 0.0008882488   
+End of iteration 40880 	 Number of batches 20 	 Time taken: 3.54s
+[Average Loss] total: 0.0074573578   color: 0.0043034856   bg: 0.0022078434   origin: 0.0000000000   inverse_mapping: 0.0009460295   
+End of iteration 40900 	 Number of batches 20 	 Time taken: 2.86s
+[Average Loss] total: 0.0068665505   color: 0.0040016011   bg: 0.0021219926   origin: 0.0000000000   inverse_mapping: 0.0007429567   
+End of iteration 40920 	 Number of batches 20 	 Time taken: 2.83s
+[Average Loss] total: 0.0074488679   color: 0.0045314799   bg: 0.0021770729   origin: 0.0000000000   inverse_mapping: 0.0007403145   
+End of iteration 40940 	 Number of batches 20 	 Time taken: 2.83s
+[Average Loss] total: 0.0075890846   color: 0.0049422062   bg: 0.0018255822   origin: 0.0000000000   inverse_mapping: 0.0008212966   
+End of iteration 40960 	 Number of batches 20 	 Time taken: 3.61s
+[Average Loss] total: 0.0069993609   color: 0.0040829233   bg: 0.0020800685   origin: 0.0000000000   inverse_mapping: 0.0008363693   
+End of iteration 40980 	 Number of batches 20 	 Time taken: 3.14s
+[Average Loss] total: 0.0067957356   color: 0.0041647637   bg: 0.0017532454   origin: 0.0000000000   inverse_mapping: 0.0008777268   
+End of iteration 41000 	 Number of batches 20 	 Time taken: 2.87s
+[Average Loss] total: 0.0076700780   color: 0.0045713214   bg: 0.0023542622   origin: 0.0000000000   inverse_mapping: 0.0007444941   
+End of iteration 41020 	 Number of batches 20 	 Time taken: 2.88s
+[Average Loss] total: 0.0077062207   color: 0.0044889944   bg: 0.0024144046   origin: 0.0000000000   inverse_mapping: 0.0008028219   
+End of iteration 41040 	 Number of batches 20 	 Time taken: 3.11s
+[Average Loss] total: 0.0074148155   color: 0.0042096353   bg: 0.0024178778   origin: 0.0000000000   inverse_mapping: 0.0007873030   
+End of iteration 41060 	 Number of batches 20 	 Time taken: 3.74s
+[Average Loss] total: 0.0072094812   color: 0.0043803426   bg: 0.0019638722   origin: 0.0000000000   inverse_mapping: 0.0008652672   
+End of iteration 41080 	 Number of batches 20 	 Time taken: 2.84s
+[Average Loss] total: 0.0071117193   color: 0.0046224906   bg: 0.0016685419   origin: 0.0000000000   inverse_mapping: 0.0008206869   
+End of iteration 41100 	 Number of batches 20 	 Time taken: 2.84s
+[Average Loss] total: 0.0073322775   color: 0.0041261078   bg: 0.0025196983   origin: 0.0000000000   inverse_mapping: 0.0006864716   
+End of iteration 41120 	 Number of batches 20 	 Time taken: 2.82s
+[Average Loss] total: 0.0072327228   color: 0.0045926375   bg: 0.0019018255   origin: 0.0000000000   inverse_mapping: 0.0007382607   
+End of iteration 41140 	 Number of batches 20 	 Time taken: 3.49s
+[Average Loss] total: 0.0081642037   color: 0.0048952973   bg: 0.0024367201   origin: 0.0000000000   inverse_mapping: 0.0008321846   
+End of iteration 41160 	 Number of batches 20 	 Time taken: 3.24s
+[Average Loss] total: 0.0073845289   color: 0.0045507690   bg: 0.0019339937   origin: 0.0000000000   inverse_mapping: 0.0008997662   
+End of iteration 41180 	 Number of batches 20 	 Time taken: 2.85s
+[Average Loss] total: 0.0067154006   color: 0.0042154570   bg: 0.0017621939   origin: 0.0000000000   inverse_mapping: 0.0007377504   
+End of iteration 41200 	 Number of batches 20 	 Time taken: 2.88s
+[Average Loss] total: 0.0070983409   color: 0.0042412537   bg: 0.0020874063   origin: 0.0000000000   inverse_mapping: 0.0007696809   
+End of iteration 41220 	 Number of batches 20 	 Time taken: 2.99s
+[Average Loss] total: 0.0069827512   color: 0.0043434622   bg: 0.0018902617   origin: 0.0000000000   inverse_mapping: 0.0007490279   
+End of iteration 41240 	 Number of batches 20 	 Time taken: 4.00s
+[Average Loss] total: 0.0082463380   color: 0.0053302147   bg: 0.0019481609   origin: 0.0000000000   inverse_mapping: 0.0009679625   
+End of iteration 41260 	 Number of batches 20 	 Time taken: 4.01s
+[Average Loss] total: 0.0079316366   color: 0.0047112131   bg: 0.0022878712   origin: 0.0000000000   inverse_mapping: 0.0009325525   
+End of iteration 41280 	 Number of batches 20 	 Time taken: 2.85s
+[Average Loss] total: 0.0072290720   color: 0.0041749761   bg: 0.0022553683   origin: 0.0000000000   inverse_mapping: 0.0007987271   
+End of iteration 41300 	 Number of batches 20 	 Time taken: 2.86s
+[Average Loss] total: 0.0069726333   color: 0.0042819879   bg: 0.0019017825   origin: 0.0000000000   inverse_mapping: 0.0007888642   
+End of iteration 41320 	 Number of batches 20 	 Time taken: 2.84s
+[Average Loss] total: 0.0069881179   color: 0.0035891959   bg: 0.0026703451   origin: 0.0000000000   inverse_mapping: 0.0007285769   
+End of iteration 41340 	 Number of batches 20 	 Time taken: 3.61s
+[Average Loss] total: 0.0069594169   color: 0.0042439238   bg: 0.0020421545   origin: 0.0000000000   inverse_mapping: 0.0006733375   
+End of iteration 41360 	 Number of batches 20 	 Time taken: 3.14s
+[Average Loss] total: 0.0068711089   color: 0.0040472150   bg: 0.0021497102   origin: 0.0000000000   inverse_mapping: 0.0006741824   
+End of iteration 41380 	 Number of batches 20 	 Time taken: 2.83s
+[Average Loss] total: 0.0065489397   color: 0.0040297830   bg: 0.0018245463   origin: 0.0000000000   inverse_mapping: 0.0006946109   
+End of iteration 41400 	 Number of batches 20 	 Time taken: 2.87s
+[Average Loss] total: 0.0065998733   color: 0.0040423758   bg: 0.0018610997   origin: 0.0000000000   inverse_mapping: 0.0006963969   
+End of iteration 41420 	 Number of batches 20 	 Time taken: 3.00s
+[Average Loss] total: 0.0068387054   color: 0.0042046164   bg: 0.0018885293   origin: 0.0000000000   inverse_mapping: 0.0007455610   
+End of iteration 41440 	 Number of batches 20 	 Time taken: 3.72s
+[Average Loss] total: 0.0060062562   color: 0.0037828495   bg: 0.0015468483   origin: 0.0000000000   inverse_mapping: 0.0006765585   
+End of iteration 41460 	 Number of batches 20 	 Time taken: 2.89s
+[Average Loss] total: 0.0067502158   color: 0.0042765248   bg: 0.0016962703   origin: 0.0000000000   inverse_mapping: 0.0007774198   
+End of iteration 41480 	 Number of batches 20 	 Time taken: 2.84s
+[Average Loss] total: 0.0068291551   color: 0.0041928268   bg: 0.0018713222   origin: 0.0000000000   inverse_mapping: 0.0007650065   
+End of iteration 41500 	 Number of batches 20 	 Time taken: 2.85s
+[Average Loss] total: 0.0070756017   color: 0.0045207986   bg: 0.0017439964   origin: 0.0000000000   inverse_mapping: 0.0008108068   
+End of iteration 41520 	 Number of batches 20 	 Time taken: 3.48s
+[Average Loss] total: 0.0072634160   color: 0.0045165312   bg: 0.0019852787   origin: 0.0000000000   inverse_mapping: 0.0007616060   
+End of iteration 41540 	 Number of batches 20 	 Time taken: 3.30s
+[Average Loss] total: 0.0070689111   color: 0.0041994262   bg: 0.0021388759   origin: 0.0000000000   inverse_mapping: 0.0007306103   
+End of iteration 41560 	 Number of batches 20 	 Time taken: 2.82s
+[Average Loss] total: 0.0071659568   color: 0.0045376900   bg: 0.0017715478   origin: 0.0000000000   inverse_mapping: 0.0008567196   
+End of iteration 41580 	 Number of batches 20 	 Time taken: 2.88s
+[Average Loss] total: 0.0072823935   color: 0.0044184234   bg: 0.0020153376   origin: 0.0000000000   inverse_mapping: 0.0008486322   
+End of iteration 41600 	 Number of batches 20 	 Time taken: 2.93s
+[Average Loss] total: 0.0071948147   color: 0.0044178045   bg: 0.0019011594   origin: 0.0000000000   inverse_mapping: 0.0008758507   
+End of iteration 41620 	 Number of batches 20 	 Time taken: 3.79s
+[Average Loss] total: 0.0081435302   color: 0.0047770222   bg: 0.0024501355   origin: 0.0000000000   inverse_mapping: 0.0009163716   
+End of iteration 41640 	 Number of batches 20 	 Time taken: 2.87s
+[Average Loss] total: 0.0073758550   color: 0.0046339491   bg: 0.0019679868   origin: 0.0000000000   inverse_mapping: 0.0007739197   
+End of iteration 41660 	 Number of batches 20 	 Time taken: 2.84s
+[Average Loss] total: 0.0070205652   color: 0.0042416831   bg: 0.0021099623   origin: 0.0000000000   inverse_mapping: 0.0006689195   
+End of iteration 41680 	 Number of batches 20 	 Time taken: 2.84s
+[Average Loss] total: 0.0062791700   color: 0.0038450670   bg: 0.0017426262   origin: 0.0000000000   inverse_mapping: 0.0006914760   
+End of iteration 41700 	 Number of batches 20 	 Time taken: 3.29s
+[Average Loss] total: 0.0065708100   color: 0.0040430129   bg: 0.0016550135   origin: 0.0000000000   inverse_mapping: 0.0008727843   
+End of iteration 41720 	 Number of batches 20 	 Time taken: 3.45s
+[Average Loss] total: 0.0075649493   color: 0.0049502933   bg: 0.0017581134   origin: 0.0000000000   inverse_mapping: 0.0008565412   
+End of iteration 41740 	 Number of batches 20 	 Time taken: 2.85s
+[Average Loss] total: 0.0071509960   color: 0.0045219939   bg: 0.0018812033   origin: 0.0000000000   inverse_mapping: 0.0007477984   
+End of iteration 41760 	 Number of batches 20 	 Time taken: 2.87s
+[Average Loss] total: 0.0075798221   color: 0.0046218014   bg: 0.0022359947   origin: 0.0000000000   inverse_mapping: 0.0007220258   
+End of iteration 41780 	 Number of batches 20 	 Time taken: 2.82s
+[Average Loss] total: 0.0072521977   color: 0.0044587748   bg: 0.0019982306   origin: 0.0000000000   inverse_mapping: 0.0007951925   
+End of iteration 41800 	 Number of batches 20 	 Time taken: 3.83s
+[Average Loss] total: 0.0069386805   color: 0.0044446182   bg: 0.0018139608   origin: 0.0000000000   inverse_mapping: 0.0006801009   
+End of iteration 41820 	 Number of batches 20 	 Time taken: 3.01s
+[Average Loss] total: 0.0070521915   color: 0.0043687494   bg: 0.0019682727   origin: 0.0000000000   inverse_mapping: 0.0007151693   
+End of iteration 41840 	 Number of batches 20 	 Time taken: 2.82s
+[Average Loss] total: 0.0072152684   color: 0.0045544468   bg: 0.0019765736   origin: 0.0000000000   inverse_mapping: 0.0006842487   
+End of iteration 41860 	 Number of batches 20 	 Time taken: 2.89s
+[Average Loss] total: 0.0068146843   color: 0.0040004989   bg: 0.0021244646   origin: 0.0000000000   inverse_mapping: 0.0006897210   
+End of iteration 41880 	 Number of batches 20 	 Time taken: 3.17s
+[Average Loss] total: 0.0066472637   color: 0.0039374079   bg: 0.0020334097   origin: 0.0000000000   inverse_mapping: 0.0006764469   
+End of iteration 41900 	 Number of batches 20 	 Time taken: 3.57s
+[Average Loss] total: 0.0067780442   color: 0.0039162440   bg: 0.0021419551   origin: 0.0000000000   inverse_mapping: 0.0007198442   
+End of iteration 41920 	 Number of batches 20 	 Time taken: 2.85s
+[Average Loss] total: 0.0070396895   color: 0.0042819954   bg: 0.0020772496   origin: 0.0000000000   inverse_mapping: 0.0006804428   
+End of iteration 41940 	 Number of batches 20 	 Time taken: 2.84s
+[Average Loss] total: 0.0074383118   color: 0.0040840502   bg: 0.0026158441   origin: 0.0000000000   inverse_mapping: 0.0007384176   
+End of iteration 41960 	 Number of batches 20 	 Time taken: 2.84s
+[Average Loss] total: 0.0068471669   color: 0.0040571014   bg: 0.0021152964   origin: 0.0000000000   inverse_mapping: 0.0006747688   
+End of iteration 41980 	 Number of batches 20 	 Time taken: 3.59s
+[Average Loss] total: 0.0070942189   color: 0.0041039791   bg: 0.0023876084   origin: 0.0000000000   inverse_mapping: 0.0006026303   
+End of iteration 42000 	 Number of batches 20 	 Time taken: 3.25s
+[Average Loss] total: 0.0065760985   color: 0.0036999162   bg: 0.0021892334   origin: 0.0000000000   inverse_mapping: 0.0006869491   
+End of iteration 42020 	 Number of batches 20 	 Time taken: 2.84s
+[Average Loss] total: 0.0067087817   color: 0.0042319982   bg: 0.0018239294   origin: 0.0000000000   inverse_mapping: 0.0006528536   
+End of iteration 42040 	 Number of batches 20 	 Time taken: 2.86s
+[Average Loss] total: 0.0060772114   color: 0.0037655171   bg: 0.0016489147   origin: 0.0000000000   inverse_mapping: 0.0006627800   
+End of iteration 42060 	 Number of batches 20 	 Time taken: 3.02s
+[Average Loss] total: 0.0069543235   color: 0.0042891800   bg: 0.0020243514   origin: 0.0000000000   inverse_mapping: 0.0006407926   
+End of iteration 42080 	 Number of batches 20 	 Time taken: 3.72s
+[Average Loss] total: 0.0063475878   color: 0.0038891695   bg: 0.0017430953   origin: 0.0000000000   inverse_mapping: 0.0007153226   
+End of iteration 42100 	 Number of batches 20 	 Time taken: 2.85s
+[Average Loss] total: 0.0069583044   color: 0.0044259564   bg: 0.0018288627   origin: 0.0000000000   inverse_mapping: 0.0007034851   
+End of iteration 42120 	 Number of batches 20 	 Time taken: 2.82s
+[Average Loss] total: 0.0070250812   color: 0.0043104952   bg: 0.0020399308   origin: 0.0000000000   inverse_mapping: 0.0006746553   
+End of iteration 42140 	 Number of batches 20 	 Time taken: 2.85s
+[Average Loss] total: 0.0070273424   color: 0.0040178648   bg: 0.0022336633   origin: 0.0000000000   inverse_mapping: 0.0007758146   
+End of iteration 42160 	 Number of batches 20 	 Time taken: 3.41s
+[Average Loss] total: 0.0070492611   color: 0.0044158506   bg: 0.0018975433   origin: 0.0000000000   inverse_mapping: 0.0007358670   
+End of iteration 42180 	 Number of batches 20 	 Time taken: 3.43s
+[Average Loss] total: 0.0069618965   color: 0.0041601085   bg: 0.0020619598   origin: 0.0000000000   inverse_mapping: 0.0007398279   
+End of iteration 42200 	 Number of batches 20 	 Time taken: 2.87s
+[Average Loss] total: 0.0070600919   color: 0.0044333572   bg: 0.0018864556   origin: 0.0000000000   inverse_mapping: 0.0007402790   
+End of iteration 42220 	 Number of batches 20 	 Time taken: 2.92s
+[Average Loss] total: 0.0070861126   color: 0.0043784487   bg: 0.0019164920   origin: 0.0000000000   inverse_mapping: 0.0007911720   
+End of iteration 42240 	 Number of batches 20 	 Time taken: 3.02s
+[Average Loss] total: 0.0078504793   color: 0.0041804272   bg: 0.0028629000   origin: 0.0000000000   inverse_mapping: 0.0008071535   
+End of iteration 42260 	 Number of batches 20 	 Time taken: 3.88s
+[Average Loss] total: 0.0065748333   color: 0.0039219302   bg: 0.0019474684   origin: 0.0000000000   inverse_mapping: 0.0007054352   
+End of iteration 42280 	 Number of batches 20 	 Time taken: 2.83s
+[Average Loss] total: 0.0074081058   color: 0.0038304986   bg: 0.0028748084   origin: 0.0000000000   inverse_mapping: 0.0007027978   
+End of iteration 42300 	 Number of batches 20 	 Time taken: 2.85s
+[Average Loss] total: 0.0066750995   color: 0.0042190598   bg: 0.0018233759   origin: 0.0000000000   inverse_mapping: 0.0006326637   
+End of iteration 42320 	 Number of batches 20 	 Time taken: 2.85s
+[Average Loss] total: 0.0066108876   color: 0.0038107652   bg: 0.0021361953   origin: 0.0000000000   inverse_mapping: 0.0006639271   
+End of iteration 42340 	 Number of batches 20 	 Time taken: 3.37s
+[Average Loss] total: 0.0080057699   color: 0.0046117115   bg: 0.0027257048   origin: 0.0000000000   inverse_mapping: 0.0006683529   
+End of iteration 42360 	 Number of batches 20 	 Time taken: 3.34s
+[Average Loss] total: 0.0076853693   color: 0.0044456581   bg: 0.0025653802   origin: 0.0000000000   inverse_mapping: 0.0006743306   
+End of iteration 42380 	 Number of batches 20 	 Time taken: 2.86s
+[Average Loss] total: 0.0071202079   color: 0.0045204470   bg: 0.0018190210   origin: 0.0000000000   inverse_mapping: 0.0007807392   
+End of iteration 42400 	 Number of batches 20 	 Time taken: 2.83s
+[Average Loss] total: 0.0071876906   color: 0.0047097323   bg: 0.0016975418   origin: 0.0000000000   inverse_mapping: 0.0007804177   
+End of iteration 42420 	 Number of batches 20 	 Time taken: 2.84s
+[Average Loss] total: 0.0061822049   color: 0.0039340379   bg: 0.0014787713   origin: 0.0000000000   inverse_mapping: 0.0007693956   
+End of iteration 42440 	 Number of batches 20 	 Time taken: 3.84s
+[Average Loss] total: 0.0065612793   color: 0.0042938674   bg: 0.0016015758   origin: 0.0000000000   inverse_mapping: 0.0006658369   
+End of iteration 42460 	 Number of batches 20 	 Time taken: 2.95s
+[Average Loss] total: 0.0068175429   color: 0.0039428002   bg: 0.0021803968   origin: 0.0000000000   inverse_mapping: 0.0006943453   
+End of iteration 42480 	 Number of batches 20 	 Time taken: 2.85s
+[Average Loss] total: 0.0067413086   color: 0.0040842411   bg: 0.0020556736   origin: 0.0000000000   inverse_mapping: 0.0006013936   
+End of iteration 42500 	 Number of batches 20 	 Time taken: 2.83s
+[Average Loss] total: 0.0067399624   color: 0.0042199069   bg: 0.0017712315   origin: 0.0000000000   inverse_mapping: 0.0007488236   
+End of iteration 42520 	 Number of batches 20 	 Time taken: 3.29s
+[Average Loss] total: 0.0065883533   color: 0.0040736166   bg: 0.0017458260   origin: 0.0000000000   inverse_mapping: 0.0007689115   
+End of iteration 42540 	 Number of batches 20 	 Time taken: 3.47s
+[Average Loss] total: 0.0074813562   color: 0.0046952427   bg: 0.0020290327   origin: 0.0000000000   inverse_mapping: 0.0007570811   
+End of iteration 42560 	 Number of batches 20 	 Time taken: 2.89s
+[Average Loss] total: 0.0062013501   color: 0.0041104853   bg: 0.0014198519   origin: 0.0000000000   inverse_mapping: 0.0006710138   
+End of iteration 42580 	 Number of batches 20 	 Time taken: 2.85s
+[Average Loss] total: 0.0077935206   color: 0.0042124852   bg: 0.0028858639   origin: 0.0000000000   inverse_mapping: 0.0006951713   
+End of iteration 42600 	 Number of batches 20 	 Time taken: 2.82s
+[Average Loss] total: 0.0073631504   color: 0.0046533444   bg: 0.0019248277   origin: 0.0000000000   inverse_mapping: 0.0007849775   
+End of iteration 42620 	 Number of batches 20 	 Time taken: 3.75s
+[Average Loss] total: 0.0076098419   color: 0.0046215560   bg: 0.0021439071   origin: 0.0000000000   inverse_mapping: 0.0008443784   
+End of iteration 42640 	 Number of batches 20 	 Time taken: 3.03s
+[Average Loss] total: 0.0065888800   color: 0.0038388029   bg: 0.0020387631   origin: 0.0000000000   inverse_mapping: 0.0007113127   
+End of iteration 42660 	 Number of batches 20 	 Time taken: 2.87s
+[Average Loss] total: 0.0064926553   color: 0.0038673237   bg: 0.0020193032   origin: 0.0000000000   inverse_mapping: 0.0006060289   
+End of iteration 42680 	 Number of batches 20 	 Time taken: 2.84s
+[Average Loss] total: 0.0066383253   color: 0.0038259856   bg: 0.0020281281   origin: 0.0000000000   inverse_mapping: 0.0007842118   
+End of iteration 42700 	 Number of batches 20 	 Time taken: 3.13s
+[Average Loss] total: 0.0069830203   color: 0.0040373597   bg: 0.0020942034   origin: 0.0000000000   inverse_mapping: 0.0008514574   
+End of iteration 42720 	 Number of batches 20 	 Time taken: 3.67s
+[Average Loss] total: 0.0065760957   color: 0.0040773279   bg: 0.0018874828   origin: 0.0000000000   inverse_mapping: 0.0006112857   
+End of iteration 42740 	 Number of batches 20 	 Time taken: 2.85s
+[Average Loss] total: 0.0066079176   color: 0.0042693499   bg: 0.0016038314   origin: 0.0000000000   inverse_mapping: 0.0007347364   
+End of iteration 42760 	 Number of batches 20 	 Time taken: 2.87s
+[Average Loss] total: 0.0063004079   color: 0.0038676411   bg: 0.0018091502   origin: 0.0000000000   inverse_mapping: 0.0006236162   
+End of iteration 42780 	 Number of batches 20 	 Time taken: 2.85s
+[Average Loss] total: 0.0059643215   color: 0.0038385901   bg: 0.0014895698   origin: 0.0000000000   inverse_mapping: 0.0006361610   
+End of iteration 42800 	 Number of batches 20 	 Time taken: 3.67s
+[Average Loss] total: 0.0063982639   color: 0.0038542107   bg: 0.0019629819   origin: 0.0000000000   inverse_mapping: 0.0005810714   
+End of iteration 42820 	 Number of batches 20 	 Time taken: 3.13s
+[Average Loss] total: 0.0076294327   color: 0.0041321889   bg: 0.0028054167   origin: 0.0000000000   inverse_mapping: 0.0006918264   
+End of iteration 42840 	 Number of batches 20 	 Time taken: 2.84s
+[Average Loss] total: 0.0069093825   color: 0.0042956839   bg: 0.0017374298   origin: 0.0000000000   inverse_mapping: 0.0008762688   
+End of iteration 42860 	 Number of batches 20 	 Time taken: 2.82s
+[Average Loss] total: 0.0065246448   color: 0.0041124756   bg: 0.0016798106   origin: 0.0000000000   inverse_mapping: 0.0007323587   
+End of iteration 42880 	 Number of batches 20 	 Time taken: 3.01s
+[Average Loss] total: 0.0071376236   color: 0.0043127476   bg: 0.0021035343   origin: 0.0000000000   inverse_mapping: 0.0007213416   
+End of iteration 42900 	 Number of batches 20 	 Time taken: 3.73s
+[Average Loss] total: 2.0743074417   color: 0.0166680589   bg: 0.0037750308   origin: 1.8333421946   inverse_mapping: 0.2205227166   
+End of iteration 42920 	 Number of batches 20 	 Time taken: 2.84s
+[Average Loss] total: 0.3082472086   color: 0.0365146697   bg: 0.0625474900   origin: 0.0000000000   inverse_mapping: 0.2091851085   
+End of iteration 42940 	 Number of batches 20 	 Time taken: 2.91s
+[Average Loss] total: 0.1330293864   color: 0.0253925677   bg: 0.0116172386   origin: 0.0000000000   inverse_mapping: 0.0960195661   
+End of iteration 42960 	 Number of batches 20 	 Time taken: 2.89s
+[Average Loss] total: 0.0978157520   color: 0.0178493317   bg: 0.0066533322   origin: 0.0000000000   inverse_mapping: 0.0733130798   
+End of iteration 42980 	 Number of batches 20 	 Time taken: 3.53s
+[Average Loss] total: 0.0781895295   color: 0.0124143129   bg: 0.0054581165   origin: 0.0000000000   inverse_mapping: 0.0603170954   
+End of iteration 43000 	 Number of batches 20 	 Time taken: 3.23s
+[Average Loss] total: 0.0641767904   color: 0.0114438972   bg: 0.0040584747   origin: 0.0000000000   inverse_mapping: 0.0486744158   
+End of iteration 43020 	 Number of batches 20 	 Time taken: 2.84s
+[Average Loss] total: 0.0492198206   color: 0.0100503732   bg: 0.0033914600   origin: 0.0000000000   inverse_mapping: 0.0357779860   
+End of iteration 43040 	 Number of batches 20 	 Time taken: 2.85s
+[Average Loss] total: 0.0413311087   color: 0.0097036781   bg: 0.0026063961   origin: 0.0000000000   inverse_mapping: 0.0290210340   
+End of iteration 43060 	 Number of batches 20 	 Time taken: 3.00s
+[Average Loss] total: 0.0355210751   color: 0.0091227582   bg: 0.0028971077   origin: 0.0000000000   inverse_mapping: 0.0235012081   
+End of iteration 43080 	 Number of batches 20 	 Time taken: 3.78s
+[Average Loss] total: 0.0334512480   color: 0.0091237519   bg: 0.0028705928   origin: 0.0000000000   inverse_mapping: 0.0214568991   
+End of iteration 43100 	 Number of batches 20 	 Time taken: 2.84s
+[Average Loss] total: 0.0282188356   color: 0.0089490358   bg: 0.0024799283   origin: 0.0000000000   inverse_mapping: 0.0167898722   
+End of iteration 43120 	 Number of batches 20 	 Time taken: 2.88s
+[Average Loss] total: 0.0275911074   color: 0.0082752118   bg: 0.0029186732   origin: 0.0000000000   inverse_mapping: 0.0163972210   
+End of iteration 43140 	 Number of batches 20 	 Time taken: 2.84s
+[Average Loss] total: 0.0241065603   color: 0.0083199469   bg: 0.0022024256   origin: 0.0000000000   inverse_mapping: 0.0135841882   
+End of iteration 43160 	 Number of batches 20 	 Time taken: 3.43s
+[Average Loss] total: 0.0223100074   color: 0.0079939542   bg: 0.0019031048   origin: 0.0000000000   inverse_mapping: 0.0124129495   
+End of iteration 43180 	 Number of batches 20 	 Time taken: 3.37s
+[Average Loss] total: 0.0227691717   color: 0.0079803066   bg: 0.0027627281   origin: 0.0000000000   inverse_mapping: 0.0120261377   
+End of iteration 43200 	 Number of batches 20 	 Time taken: 2.84s
+[Average Loss] total: 0.0206906106   color: 0.0079245884   bg: 0.0024039529   origin: 0.0000000000   inverse_mapping: 0.0103620691   
+End of iteration 43220 	 Number of batches 20 	 Time taken: 2.91s
+[Average Loss] total: 0.0205252822   color: 0.0077187987   bg: 0.0027094765   origin: 0.0000000000   inverse_mapping: 0.0100970063   
+End of iteration 43240 	 Number of batches 20 	 Time taken: 2.85s
+[Average Loss] total: 0.0184677057   color: 0.0070634852   bg: 0.0017796907   origin: 0.0000000000   inverse_mapping: 0.0096245287   
+End of iteration 43260 	 Number of batches 20 	 Time taken: 3.83s
+[Average Loss] total: 0.0189867318   color: 0.0074048773   bg: 0.0026626184   origin: 0.0000000000   inverse_mapping: 0.0089192344   
+End of iteration 43280 	 Number of batches 20 	 Time taken: 2.94s
+[Average Loss] total: 0.0177832562   color: 0.0071963775   bg: 0.0027095352   origin: 0.0000000000   inverse_mapping: 0.0078773433   
+End of iteration 43300 	 Number of batches 20 	 Time taken: 2.83s
+[Average Loss] total: 0.0184580386   color: 0.0074421517   bg: 0.0020406316   origin: 0.0000000000   inverse_mapping: 0.0089752562   
+End of iteration 43320 	 Number of batches 20 	 Time taken: 2.86s
+[Average Loss] total: 0.0170738138   color: 0.0067795701   bg: 0.0021480951   origin: 0.0000000000   inverse_mapping: 0.0081461482   
+End of iteration 43340 	 Number of batches 20 	 Time taken: 3.33s
+[Average Loss] total: 0.0161707047   color: 0.0065649049   bg: 0.0024008851   origin: 0.0000000000   inverse_mapping: 0.0072049159   
+End of iteration 43360 	 Number of batches 20 	 Time taken: 3.48s
+[Average Loss] total: 0.0165823530   color: 0.0066802949   bg: 0.0025955767   origin: 0.0000000000   inverse_mapping: 0.0073064822   
+End of iteration 43380 	 Number of batches 20 	 Time taken: 2.82s
+[Average Loss] total: 0.0173390098   color: 0.0073019448   bg: 0.0026363486   origin: 0.0000000000   inverse_mapping: 0.0074007162   
+End of iteration 43400 	 Number of batches 20 	 Time taken: 2.82s
+[Average Loss] total: 0.0165422689   color: 0.0068341657   bg: 0.0028351920   origin: 0.0000000000   inverse_mapping: 0.0068729105   
+End of iteration 43420 	 Number of batches 20 	 Time taken: 3.41s
+[Average Loss] total: 0.0158949997   color: 0.0065539475   bg: 0.0024420035   origin: 0.0000000000   inverse_mapping: 0.0068990486   
+End of iteration 43440 	 Number of batches 20 	 Time taken: 3.89s
+[Average Loss] total: 0.0150000080   color: 0.0071757822   bg: 0.0020617084   origin: 0.0000000000   inverse_mapping: 0.0057625175   
+End of iteration 43460 	 Number of batches 20 	 Time taken: 3.41s
+[Average Loss] total: 0.0154199172   color: 0.0072384374   bg: 0.0025416168   origin: 0.0000000000   inverse_mapping: 0.0056398623   
+End of iteration 43480 	 Number of batches 20 	 Time taken: 2.83s
+[Average Loss] total: 0.0144812511   color: 0.0065690088   bg: 0.0020188421   origin: 0.0000000000   inverse_mapping: 0.0058934004   
+End of iteration 43500 	 Number of batches 20 	 Time taken: 2.85s
+[Average Loss] total: 0.0157811735   color: 0.0070867315   bg: 0.0024419527   origin: 0.0000000000   inverse_mapping: 0.0062524886   
+End of iteration 43520 	 Number of batches 20 	 Time taken: 2.87s
+[Average Loss] total: 0.0152306408   color: 0.0068792175   bg: 0.0020609912   origin: 0.0000000000   inverse_mapping: 0.0062904321   
+End of iteration 43540 	 Number of batches 20 	 Time taken: 3.87s
+[Average Loss] total: 0.0142242778   color: 0.0063306615   bg: 0.0025580765   origin: 0.0000000000   inverse_mapping: 0.0053355377   
+End of iteration 43560 	 Number of batches 20 	 Time taken: 2.96s
+[Average Loss] total: 0.0127258627   color: 0.0062985527   bg: 0.0016041693   origin: 0.0000000000   inverse_mapping: 0.0048231417   
+End of iteration 43580 	 Number of batches 20 	 Time taken: 2.86s
+[Average Loss] total: 0.0132097742   color: 0.0060533858   bg: 0.0017484473   origin: 0.0000000000   inverse_mapping: 0.0054079420   
+End of iteration 43600 	 Number of batches 20 	 Time taken: 2.82s
+[Average Loss] total: 0.0135813383   color: 0.0060482775   bg: 0.0026668787   origin: 0.0000000000   inverse_mapping: 0.0048661833   
+End of iteration 43620 	 Number of batches 20 	 Time taken: 3.20s
+[Average Loss] total: 0.0134293307   color: 0.0062519978   bg: 0.0027654248   origin: 0.0000000000   inverse_mapping: 0.0044119097   
+End of iteration 43640 	 Number of batches 20 	 Time taken: 3.49s
+[Average Loss] total: 0.0132149225   color: 0.0062222956   bg: 0.0020405434   origin: 0.0000000000   inverse_mapping: 0.0049520829   
+End of iteration 43660 	 Number of batches 20 	 Time taken: 2.83s
+[Average Loss] total: 0.0126316352   color: 0.0059781442   bg: 0.0023814503   origin: 0.0000000000   inverse_mapping: 0.0042720409   
+End of iteration 43680 	 Number of batches 20 	 Time taken: 2.88s
+[Average Loss] total: 0.0132003380   color: 0.0063899430   bg: 0.0025376275   origin: 0.0000000000   inverse_mapping: 0.0042727664   
+End of iteration 43700 	 Number of batches 20 	 Time taken: 2.87s
+[Average Loss] total: 0.0133997845   color: 0.0063131540   bg: 0.0029149461   origin: 0.0000000000   inverse_mapping: 0.0041716849   
+End of iteration 43720 	 Number of batches 20 	 Time taken: 3.70s
+[Average Loss] total: 0.0120039620   color: 0.0063782157   bg: 0.0020176494   origin: 0.0000000000   inverse_mapping: 0.0036080962   
+End of iteration 43740 	 Number of batches 20 	 Time taken: 3.05s
+[Average Loss] total: 0.0125246067   color: 0.0061697555   bg: 0.0021161572   origin: 0.0000000000   inverse_mapping: 0.0042386935   
+End of iteration 43760 	 Number of batches 20 	 Time taken: 2.85s
+[Average Loss] total: 0.0117743909   color: 0.0058508036   bg: 0.0022433528   origin: 0.0000000000   inverse_mapping: 0.0036802352   
+End of iteration 43780 	 Number of batches 20 	 Time taken: 2.82s
+[Average Loss] total: 0.0113776959   color: 0.0056305560   bg: 0.0023481247   origin: 0.0000000000   inverse_mapping: 0.0033990152   
+End of iteration 43800 	 Number of batches 20 	 Time taken: 3.11s
+[Average Loss] total: 0.0119946888   color: 0.0058732345   bg: 0.0021803910   origin: 0.0000000000   inverse_mapping: 0.0039410633   
+End of iteration 43820 	 Number of batches 20 	 Time taken: 3.64s
+[Average Loss] total: 0.0113117509   color: 0.0058504068   bg: 0.0021126862   origin: 0.0000000000   inverse_mapping: 0.0033486572   
+End of iteration 43840 	 Number of batches 20 	 Time taken: 2.84s
+[Average Loss] total: 0.0110206716   color: 0.0057758852   bg: 0.0018307082   origin: 0.0000000000   inverse_mapping: 0.0034140784   
+End of iteration 43860 	 Number of batches 20 	 Time taken: 2.82s
+[Average Loss] total: 0.0120996675   color: 0.0063603879   bg: 0.0022017451   origin: 0.0000000000   inverse_mapping: 0.0035375345   
+End of iteration 43880 	 Number of batches 20 	 Time taken: 2.84s
+[Average Loss] total: 0.0120370677   color: 0.0061608492   bg: 0.0023888599   origin: 0.0000000000   inverse_mapping: 0.0034873586   
+End of iteration 43900 	 Number of batches 20 	 Time taken: 3.46s
+[Average Loss] total: 0.0115922121   color: 0.0064096726   bg: 0.0017833710   origin: 0.0000000000   inverse_mapping: 0.0033991695   
+End of iteration 43920 	 Number of batches 20 	 Time taken: 3.34s
+[Average Loss] total: 0.0108302366   color: 0.0054970626   bg: 0.0023134791   origin: 0.0000000000   inverse_mapping: 0.0030196949   
+End of iteration 43940 	 Number of batches 20 	 Time taken: 2.84s
+[Average Loss] total: 0.0109147765   color: 0.0056927353   bg: 0.0020216813   origin: 0.0000000000   inverse_mapping: 0.0032003603   
+End of iteration 43960 	 Number of batches 20 	 Time taken: 2.86s
+[Average Loss] total: 0.0103469389   color: 0.0058196406   bg: 0.0018052639   origin: 0.0000000000   inverse_mapping: 0.0027220352   
+End of iteration 43980 	 Number of batches 20 	 Time taken: 2.92s
+[Average Loss] total: 0.0110172359   color: 0.0056442036   bg: 0.0022069782   origin: 0.0000000000   inverse_mapping: 0.0031660527   
+End of iteration 44000 	 Number of batches 20 	 Time taken: 3.76s
+[Average Loss] total: 0.0108378809   color: 0.0054224911   bg: 0.0025836949   origin: 0.0000000000   inverse_mapping: 0.0028316935   
+End of iteration 44020 	 Number of batches 20 	 Time taken: 2.84s
+[Average Loss] total: 0.0111207617   color: 0.0058492026   bg: 0.0021263510   origin: 0.0000000000   inverse_mapping: 0.0031452086   
+End of iteration 44040 	 Number of batches 20 	 Time taken: 2.85s
+[Average Loss] total: 0.0107807443   color: 0.0056433403   bg: 0.0018440100   origin: 0.0000000000   inverse_mapping: 0.0032933948   
+End of iteration 44060 	 Number of batches 20 	 Time taken: 2.84s
+[Average Loss] total: 0.0105116908   color: 0.0052954387   bg: 0.0026048436   origin: 0.0000000000   inverse_mapping: 0.0026114096   
+End of iteration 44080 	 Number of batches 20 	 Time taken: 3.36s
+[Average Loss] total: 0.0101033123   color: 0.0055825762   bg: 0.0017027233   origin: 0.0000000000   inverse_mapping: 0.0028180140   
+End of iteration 44100 	 Number of batches 20 	 Time taken: 3.48s
+[Average Loss] total: 0.0101650665   color: 0.0052998918   bg: 0.0021360870   origin: 0.0000000000   inverse_mapping: 0.0027290878   
+End of iteration 44120 	 Number of batches 20 	 Time taken: 2.83s
+[Average Loss] total: 0.0102586867   color: 0.0053098626   bg: 0.0021428752   origin: 0.0000000000   inverse_mapping: 0.0028059504   
+End of iteration 44140 	 Number of batches 20 	 Time taken: 2.84s
+[Average Loss] total: 0.0093490556   color: 0.0049659484   bg: 0.0017757503   origin: 0.0000000000   inverse_mapping: 0.0026073570   
+End of iteration 44160 	 Number of batches 20 	 Time taken: 2.84s
+[Average Loss] total: 0.0086305924   color: 0.0046494482   bg: 0.0015271772   origin: 0.0000000000   inverse_mapping: 0.0024539686   
+End of iteration 44180 	 Number of batches 20 	 Time taken: 3.89s
+[Average Loss] total: 0.0095976386   color: 0.0052923895   bg: 0.0018878746   origin: 0.0000000000   inverse_mapping: 0.0024173737   
+End of iteration 44200 	 Number of batches 20 	 Time taken: 2.95s
+[Average Loss] total: 0.0104616052   color: 0.0054779099   bg: 0.0023162093   origin: 0.0000000000   inverse_mapping: 0.0026674864   
+End of iteration 44220 	 Number of batches 20 	 Time taken: 2.85s
+[Average Loss] total: 0.0102250185   color: 0.0054206490   bg: 0.0023686136   origin: 0.0000000000   inverse_mapping: 0.0024357559   
+End of iteration 44240 	 Number of batches 20 	 Time taken: 2.83s
+[Average Loss] total: 0.0105476081   color: 0.0052297981   bg: 0.0028636204   origin: 0.0000000000   inverse_mapping: 0.0024541882   
+End of iteration 44260 	 Number of batches 20 	 Time taken: 3.23s
+[Average Loss] total: 0.0102826683   color: 0.0054200515   bg: 0.0024826941   origin: 0.0000000000   inverse_mapping: 0.0023799229   
+End of iteration 44280 	 Number of batches 20 	 Time taken: 3.53s
+[Average Loss] total: 0.0094578946   color: 0.0050810832   bg: 0.0021450357   origin: 0.0000000000   inverse_mapping: 0.0022317760   
+End of iteration 44300 	 Number of batches 20 	 Time taken: 2.84s
+[Average Loss] total: 0.0098831821   color: 0.0052436832   bg: 0.0023932282   origin: 0.0000000000   inverse_mapping: 0.0022462716   
+End of iteration 44320 	 Number of batches 20 	 Time taken: 2.84s
+[Average Loss] total: 0.0097551001   color: 0.0050195432   bg: 0.0025330647   origin: 0.0000000000   inverse_mapping: 0.0022024929   
+End of iteration 44340 	 Number of batches 20 	 Time taken: 2.86s
+[Average Loss] total: 0.0097162565   color: 0.0047912467   bg: 0.0026305162   origin: 0.0000000000   inverse_mapping: 0.0022944927   
+End of iteration 44360 	 Number of batches 20 	 Time taken: 3.58s
+[Average Loss] total: 0.0090111746   color: 0.0047749616   bg: 0.0019590722   origin: 0.0000000000   inverse_mapping: 0.0022771410   
+End of iteration 44380 	 Number of batches 20 	 Time taken: 3.12s
+[Average Loss] total: 0.0095171742   color: 0.0052487226   bg: 0.0019383066   origin: 0.0000000000   inverse_mapping: 0.0023301446   
+End of iteration 44400 	 Number of batches 20 	 Time taken: 2.85s
+[Average Loss] total: 0.0101251965   color: 0.0057000336   bg: 0.0021599208   origin: 0.0000000000   inverse_mapping: 0.0022652412   
+End of iteration 44420 	 Number of batches 20 	 Time taken: 2.82s
+[Average Loss] total: 0.0099017872   color: 0.0052123158   bg: 0.0023927984   origin: 0.0000000000   inverse_mapping: 0.0022966734   
+End of iteration 44440 	 Number of batches 20 	 Time taken: 3.01s
+[Average Loss] total: 0.0091512715   color: 0.0048766094   bg: 0.0022753875   origin: 0.0000000000   inverse_mapping: 0.0019992734   
+End of iteration 44460 	 Number of batches 20 	 Time taken: 3.71s
+[Average Loss] total: 0.0091254218   color: 0.0051456788   bg: 0.0019989493   origin: 0.0000000000   inverse_mapping: 0.0019807934   
+End of iteration 44480 	 Number of batches 20 	 Time taken: 2.83s
+[Average Loss] total: 0.0095405625   color: 0.0052399174   bg: 0.0022057691   origin: 0.0000000000   inverse_mapping: 0.0020948758   
+End of iteration 44500 	 Number of batches 20 	 Time taken: 2.86s
+[Average Loss] total: 0.0094896024   color: 0.0052392823   bg: 0.0021534974   origin: 0.0000000000   inverse_mapping: 0.0020968218   
+End of iteration 44520 	 Number of batches 20 	 Time taken: 2.84s
+[Average Loss] total: 0.0087789064   color: 0.0051914635   bg: 0.0016148090   origin: 0.0000000000   inverse_mapping: 0.0019726348   
+End of iteration 44540 	 Number of batches 20 	 Time taken: 3.52s
+[Average Loss] total: 0.0089130998   color: 0.0051899478   bg: 0.0015706627   origin: 0.0000000000   inverse_mapping: 0.0021524886   
+End of iteration 44560 	 Number of batches 20 	 Time taken: 3.24s
+[Average Loss] total: 0.0093177333   color: 0.0055007413   bg: 0.0018340111   origin: 0.0000000000   inverse_mapping: 0.0019829809   
+End of iteration 44580 	 Number of batches 20 	 Time taken: 2.86s
+[Average Loss] total: 0.0094544059   color: 0.0050375881   bg: 0.0025743500   origin: 0.0000000000   inverse_mapping: 0.0018424664   
+End of iteration 44600 	 Number of batches 20 	 Time taken: 2.83s
+[Average Loss] total: 0.0088537801   color: 0.0049944106   bg: 0.0017969456   origin: 0.0000000000   inverse_mapping: 0.0020624222   
+End of iteration 44620 	 Number of batches 20 	 Time taken: 2.94s
+[Average Loss] total: 0.0088299280   color: 0.0054124533   bg: 0.0015459916   origin: 0.0000000000   inverse_mapping: 0.0018714834   
+End of iteration 44640 	 Number of batches 20 	 Time taken: 3.81s
+[Average Loss] total: 0.0085057607   color: 0.0050576529   bg: 0.0016470182   origin: 0.0000000000   inverse_mapping: 0.0018010888   
+End of iteration 44660 	 Number of batches 20 	 Time taken: 2.85s
+[Average Loss] total: 0.0084143234   color: 0.0048224488   bg: 0.0018683247   origin: 0.0000000000   inverse_mapping: 0.0017235508   
+End of iteration 44680 	 Number of batches 20 	 Time taken: 2.87s
+[Average Loss] total: 0.0090107536   color: 0.0049833222   bg: 0.0020900965   origin: 0.0000000000   inverse_mapping: 0.0019373341   
+End of iteration 44700 	 Number of batches 20 	 Time taken: 2.84s
+[Average Loss] total: 0.0086345701   color: 0.0047161272   bg: 0.0019634038   origin: 0.0000000000   inverse_mapping: 0.0019550382   
+End of iteration 44720 	 Number of batches 20 	 Time taken: 3.41s
+[Average Loss] total: 0.0084907720   color: 0.0049966550   bg: 0.0017492349   origin: 0.0000000000   inverse_mapping: 0.0017448809   
+End of iteration 44740 	 Number of batches 20 	 Time taken: 3.39s
+[Average Loss] total: 0.0087131960   color: 0.0050467872   bg: 0.0017577388   origin: 0.0000000000   inverse_mapping: 0.0019086702   
+End of iteration 44760 	 Number of batches 20 	 Time taken: 2.84s
+[Average Loss] total: 0.0089411242   color: 0.0049501657   bg: 0.0021398084   origin: 0.0000000000   inverse_mapping: 0.0018511513   
+End of iteration 44780 	 Number of batches 20 	 Time taken: 2.89s
+[Average Loss] total: 0.0099544795   color: 0.0053219660   bg: 0.0027420532   origin: 0.0000000000   inverse_mapping: 0.0018904613   
+End of iteration 44800 	 Number of batches 20 	 Time taken: 2.84s
+[Average Loss] total: 0.0084322616   color: 0.0047822525   bg: 0.0019073604   origin: 0.0000000000   inverse_mapping: 0.0017426491   
+End of iteration 44820 	 Number of batches 20 	 Time taken: 3.84s
+[Average Loss] total: 0.0084216287   color: 0.0048950850   bg: 0.0017035453   origin: 0.0000000000   inverse_mapping: 0.0018229972   
+End of iteration 44840 	 Number of batches 20 	 Time taken: 2.97s
+[Average Loss] total: 0.0089942878   color: 0.0052256444   bg: 0.0020809097   origin: 0.0000000000   inverse_mapping: 0.0016877335   
+End of iteration 44860 	 Number of batches 20 	 Time taken: 2.88s
+[Average Loss] total: 0.0086501390   color: 0.0047060372   bg: 0.0022424296   origin: 0.0000000000   inverse_mapping: 0.0017016731   
+End of iteration 44880 	 Number of batches 20 	 Time taken: 2.89s
+[Average Loss] total: 0.0090835514   color: 0.0050038523   bg: 0.0022791056   origin: 0.0000000000   inverse_mapping: 0.0018005933   
+End of iteration 44900 	 Number of batches 20 	 Time taken: 3.24s
+[Average Loss] total: 0.0089461412   color: 0.0053973044   bg: 0.0018996705   origin: 0.0000000000   inverse_mapping: 0.0016491670   
+End of iteration 44920 	 Number of batches 20 	 Time taken: 3.56s
+[Average Loss] total: 0.0082971035   color: 0.0048643267   bg: 0.0018136640   origin: 0.0000000000   inverse_mapping: 0.0016191138   
+End of iteration 44940 	 Number of batches 20 	 Time taken: 2.84s
+[Average Loss] total: 0.0090540564   color: 0.0052209157   bg: 0.0020240201   origin: 0.0000000000   inverse_mapping: 0.0018091211   
+End of iteration 44960 	 Number of batches 20 	 Time taken: 2.84s
+[Average Loss] total: 0.0085500637   color: 0.0047741882   bg: 0.0022111365   origin: 0.0000000000   inverse_mapping: 0.0015647389   
+End of iteration 44980 	 Number of batches 20 	 Time taken: 2.84s
+[Average Loss] total: 0.0085381502   color: 0.0051007145   bg: 0.0018380870   origin: 0.0000000000   inverse_mapping: 0.0015993484   
+End of iteration 45000 	 Number of batches 20 	 Time taken: 3.79s
+[Average Loss] total: 0.0081563434   color: 0.0046980428   bg: 0.0019664953   origin: 0.0000000000   inverse_mapping: 0.0014918055   
+End of iteration 45020 	 Number of batches 20 	 Time taken: 3.03s
+[Average Loss] total: 0.0078467857   color: 0.0044392343   bg: 0.0019913637   origin: 0.0000000000   inverse_mapping: 0.0014161872   
+End of iteration 45040 	 Number of batches 20 	 Time taken: 2.84s
+[Average Loss] total: 0.0084699495   color: 0.0048201005   bg: 0.0021026959   origin: 0.0000000000   inverse_mapping: 0.0015471533   
+End of iteration 45060 	 Number of batches 20 	 Time taken: 2.84s
+[Average Loss] total: 0.0080067636   color: 0.0049329675   bg: 0.0014994045   origin: 0.0000000000   inverse_mapping: 0.0015743924   
+End of iteration 45080 	 Number of batches 20 	 Time taken: 3.12s
+[Average Loss] total: 0.0082778707   color: 0.0049446272   bg: 0.0018327658   origin: 0.0000000000   inverse_mapping: 0.0015004774   
+End of iteration 45100 	 Number of batches 20 	 Time taken: 3.64s
+[Average Loss] total: 0.0087288050   color: 0.0046987138   bg: 0.0023537620   origin: 0.0000000000   inverse_mapping: 0.0016763287   
+End of iteration 45120 	 Number of batches 20 	 Time taken: 2.85s
+[Average Loss] total: 0.0076938667   color: 0.0046270471   bg: 0.0016753785   origin: 0.0000000000   inverse_mapping: 0.0013914400   
+End of iteration 45140 	 Number of batches 20 	 Time taken: 2.86s
+[Average Loss] total: 0.0092362482   color: 0.0050352998   bg: 0.0026623216   origin: 0.0000000000   inverse_mapping: 0.0015386274   
+End of iteration 45160 	 Number of batches 20 	 Time taken: 2.89s
+[Average Loss] total: 0.0099372994   color: 0.0054090950   bg: 0.0028344851   origin: 0.0000000000   inverse_mapping: 0.0016937191   
+End of iteration 45180 	 Number of batches 20 	 Time taken: 3.53s
+[Average Loss] total: 0.0085163638   color: 0.0049743555   bg: 0.0020871789   origin: 0.0000000000   inverse_mapping: 0.0014548305   
+End of iteration 45200 	 Number of batches 20 	 Time taken: 3.21s
+[Average Loss] total: 0.0092758015   color: 0.0051192432   bg: 0.0025512953   origin: 0.0000000000   inverse_mapping: 0.0016052641   
+End of iteration 45220 	 Number of batches 20 	 Time taken: 2.86s
+[Average Loss] total: 0.0077347532   color: 0.0044975686   bg: 0.0019428537   origin: 0.0000000000   inverse_mapping: 0.0012943313   
+End of iteration 45240 	 Number of batches 20 	 Time taken: 2.87s
+[Average Loss] total: 0.0080238208   color: 0.0044559725   bg: 0.0023048611   origin: 0.0000000000   inverse_mapping: 0.0012629880   
+End of iteration 45260 	 Number of batches 20 	 Time taken: 3.13s
+[Average Loss] total: 0.0086906580   color: 0.0049318220   bg: 0.0023627263   origin: 0.0000000000   inverse_mapping: 0.0013961116   
+End of iteration 45280 	 Number of batches 20 	 Time taken: 3.75s
+[Average Loss] total: 0.0086404951   color: 0.0052308212   bg: 0.0019444384   origin: 0.0000000000   inverse_mapping: 0.0014652378   
+End of iteration 45300 	 Number of batches 20 	 Time taken: 2.83s
+[Average Loss] total: 0.0078475205   color: 0.0043000970   bg: 0.0022001844   origin: 0.0000000000   inverse_mapping: 0.0013472394   
+End of iteration 45320 	 Number of batches 20 	 Time taken: 2.86s
+[Average Loss] total: 0.0084471693   color: 0.0048660170   bg: 0.0020459157   origin: 0.0000000000   inverse_mapping: 0.0015352374   
+End of iteration 45340 	 Number of batches 20 	 Time taken: 2.85s
+[Average Loss] total: 0.0074169631   color: 0.0044160532   bg: 0.0017540790   origin: 0.0000000000   inverse_mapping: 0.0012468300   
+End of iteration 45360 	 Number of batches 20 	 Time taken: 3.46s
+[Average Loss] total: 0.0092260456   color: 0.0052068816   bg: 0.0026087025   origin: 0.0000000000   inverse_mapping: 0.0014104604   
+End of iteration 45380 	 Number of batches 20 	 Time taken: 3.32s
+[Average Loss] total: 0.0099149942   color: 0.0062917667   bg: 0.0021612577   origin: 0.0000000000   inverse_mapping: 0.0014619698   
+End of iteration 45400 	 Number of batches 20 	 Time taken: 2.88s
+[Average Loss] total: 0.0092559997   color: 0.0055040200   bg: 0.0022896661   origin: 0.0000000000   inverse_mapping: 0.0014623132   
+End of iteration 45420 	 Number of batches 20 	 Time taken: 2.84s
+[Average Loss] total: 0.0084618898   color: 0.0046136514   bg: 0.0024784799   origin: 0.0000000000   inverse_mapping: 0.0013697579   
+End of iteration 45440 	 Number of batches 20 	 Time taken: 2.90s
+[Average Loss] total: 0.0075477543   color: 0.0045364490   bg: 0.0017484594   origin: 0.0000000000   inverse_mapping: 0.0012628458   
+End of iteration 45460 	 Number of batches 20 	 Time taken: 3.86s
+[Average Loss] total: 0.0077678463   color: 0.0048541292   bg: 0.0015352679   origin: 0.0000000000   inverse_mapping: 0.0013784495   
+End of iteration 45480 	 Number of batches 20 	 Time taken: 2.92s
+[Average Loss] total: 0.0081269881   color: 0.0049856179   bg: 0.0019288280   origin: 0.0000000000   inverse_mapping: 0.0012125414   
+End of iteration 45500 	 Number of batches 20 	 Time taken: 2.83s
+[Average Loss] total: 0.0074472087   color: 0.0046532513   bg: 0.0016146199   origin: 0.0000000000   inverse_mapping: 0.0011793375   
+End of iteration 45520 	 Number of batches 20 	 Time taken: 2.84s
+[Average Loss] total: 0.0077045127   color: 0.0047407337   bg: 0.0017104255   origin: 0.0000000000   inverse_mapping: 0.0012533533   
+End of iteration 45540 	 Number of batches 20 	 Time taken: 3.32s
+[Average Loss] total: 0.0078990413   color: 0.0045861113   bg: 0.0019775683   origin: 0.0000000000   inverse_mapping: 0.0013353624   
+End of iteration 45560 	 Number of batches 20 	 Time taken: 3.43s
+[Average Loss] total: 0.0084480038   color: 0.0047875321   bg: 0.0022688813   origin: 0.0000000000   inverse_mapping: 0.0013915914   
+End of iteration 45580 	 Number of batches 20 	 Time taken: 2.85s
+[Average Loss] total: 0.0083088977   color: 0.0044741030   bg: 0.0026484167   origin: 0.0000000000   inverse_mapping: 0.0011863781   
+End of iteration 45600 	 Number of batches 20 	 Time taken: 2.92s
+[Average Loss] total: 0.0069218278   color: 0.0044486001   bg: 0.0013252958   origin: 0.0000000000   inverse_mapping: 0.0011479337   
+End of iteration 45620 	 Number of batches 20 	 Time taken: 3.33s
+[Average Loss] total: 0.0078785522   color: 0.0046732798   bg: 0.0020365377   origin: 0.0000000000   inverse_mapping: 0.0011687343   
+End of iteration 45640 	 Number of batches 20 	 Time taken: 3.96s
+[Average Loss] total: 0.0083551994   color: 0.0051454576   bg: 0.0018604841   origin: 0.0000000000   inverse_mapping: 0.0013492577   
+End of iteration 45660 	 Number of batches 20 	 Time taken: 3.47s
+[Average Loss] total: 0.0076619387   color: 0.0050217146   bg: 0.0014185429   origin: 0.0000000000   inverse_mapping: 0.0012216802   
+End of iteration 45680 	 Number of batches 20 	 Time taken: 2.84s
+[Average Loss] total: 0.0094302138   color: 0.0054357424   bg: 0.0025540749   origin: 0.0000000000   inverse_mapping: 0.0014403978   
+End of iteration 45700 	 Number of batches 20 	 Time taken: 2.85s
+[Average Loss] total: 0.0088495463   color: 0.0052848277   bg: 0.0023101573   origin: 0.0000000000   inverse_mapping: 0.0012545622   
+End of iteration 45720 	 Number of batches 20 	 Time taken: 2.84s
+[Average Loss] total: 0.0087702489   color: 0.0052131708   bg: 0.0023438276   origin: 0.0000000000   inverse_mapping: 0.0012132496   
+End of iteration 45740 	 Number of batches 20 	 Time taken: 3.74s
+[Average Loss] total: 0.0075125941   color: 0.0047513465   bg: 0.0015568971   origin: 0.0000000000   inverse_mapping: 0.0012043496   
+End of iteration 45760 	 Number of batches 20 	 Time taken: 3.02s
+[Average Loss] total: 0.0077564800   color: 0.0044782325   bg: 0.0020675908   origin: 0.0000000000   inverse_mapping: 0.0012106571   
+End of iteration 45780 	 Number of batches 20 	 Time taken: 2.84s
+[Average Loss] total: 0.0072996574   color: 0.0046802694   bg: 0.0015472005   origin: 0.0000000000   inverse_mapping: 0.0010721870   
+End of iteration 45800 	 Number of batches 20 	 Time taken: 2.87s
+[Average Loss] total: 0.0075328792   color: 0.0046846345   bg: 0.0016007317   origin: 0.0000000000   inverse_mapping: 0.0012475124   
+End of iteration 45820 	 Number of batches 20 	 Time taken: 3.20s
+[Average Loss] total: 0.0075222375   color: 0.0045878734   bg: 0.0016827297   origin: 0.0000000000   inverse_mapping: 0.0012516346   
+End of iteration 45840 	 Number of batches 20 	 Time taken: 3.57s
+[Average Loss] total: 0.0074984394   color: 0.0048017311   bg: 0.0015145552   origin: 0.0000000000   inverse_mapping: 0.0011821518   
+End of iteration 45860 	 Number of batches 20 	 Time taken: 2.89s
+[Average Loss] total: 0.0075684525   color: 0.0047224695   bg: 0.0016280651   origin: 0.0000000000   inverse_mapping: 0.0012179188   
+End of iteration 45880 	 Number of batches 20 	 Time taken: 2.86s
+[Average Loss] total: 0.0079762544   color: 0.0044752276   bg: 0.0024474047   origin: 0.0000000000   inverse_mapping: 0.0010536223   
+End of iteration 45900 	 Number of batches 20 	 Time taken: 2.86s
+[Average Loss] total: 0.0072976793   color: 0.0042795991   bg: 0.0020005652   origin: 0.0000000000   inverse_mapping: 0.0010175145   
+End of iteration 45920 	 Number of batches 20 	 Time taken: 3.60s
+[Average Loss] total: 0.0082246438   color: 0.0045371586   bg: 0.0025371301   origin: 0.0000000000   inverse_mapping: 0.0011503550   
+End of iteration 45940 	 Number of batches 20 	 Time taken: 3.19s
+[Average Loss] total: 0.0080482140   color: 0.0045487327   bg: 0.0024145758   origin: 0.0000000000   inverse_mapping: 0.0010849059   
+End of iteration 45960 	 Number of batches 20 	 Time taken: 2.84s
+[Average Loss] total: 0.0077635804   color: 0.0044843773   bg: 0.0022878570   origin: 0.0000000000   inverse_mapping: 0.0009913475   
+End of iteration 45980 	 Number of batches 20 	 Time taken: 2.83s
+[Average Loss] total: 0.0080042845   color: 0.0043530595   bg: 0.0025048763   origin: 0.0000000000   inverse_mapping: 0.0011463496   
+End of iteration 46000 	 Number of batches 20 	 Time taken: 3.07s
+[Average Loss] total: 0.0082636680   color: 0.0048993500   bg: 0.0022465750   origin: 0.0000000000   inverse_mapping: 0.0011177418   
+End of iteration 46020 	 Number of batches 20 	 Time taken: 3.70s
+[Average Loss] total: 0.0080932565   color: 0.0045027253   bg: 0.0023691612   origin: 0.0000000000   inverse_mapping: 0.0012213689   
+End of iteration 46040 	 Number of batches 20 	 Time taken: 2.86s
+[Average Loss] total: 0.0075070909   color: 0.0042416272   bg: 0.0021647653   origin: 0.0000000000   inverse_mapping: 0.0011006974   
+End of iteration 46060 	 Number of batches 20 	 Time taken: 2.83s
+[Average Loss] total: 0.0075346711   color: 0.0042207814   bg: 0.0022421412   origin: 0.0000000000   inverse_mapping: 0.0010717488   
+End of iteration 46080 	 Number of batches 20 	 Time taken: 2.88s
+[Average Loss] total: 0.0076134498   color: 0.0044589117   bg: 0.0020788596   origin: 0.0000000000   inverse_mapping: 0.0010756790   
+End of iteration 46100 	 Number of batches 20 	 Time taken: 3.48s
+[Average Loss] total: 0.0080881957   color: 0.0047262269   bg: 0.0022393565   origin: 0.0000000000   inverse_mapping: 0.0011226129   
+End of iteration 46120 	 Number of batches 20 	 Time taken: 3.25s
+[Average Loss] total: 0.0072398665   color: 0.0043598274   bg: 0.0018306546   origin: 0.0000000000   inverse_mapping: 0.0010493847   
+End of iteration 46140 	 Number of batches 20 	 Time taken: 2.84s
+[Average Loss] total: 0.0077941529   color: 0.0045871190   bg: 0.0021761970   origin: 0.0000000000   inverse_mapping: 0.0010308374   
+End of iteration 46160 	 Number of batches 20 	 Time taken: 2.85s
+[Average Loss] total: 0.0073275091   color: 0.0046054288   bg: 0.0016897003   origin: 0.0000000000   inverse_mapping: 0.0010323802   
+End of iteration 46180 	 Number of batches 20 	 Time taken: 3.03s
+[Average Loss] total: 0.0077546225   color: 0.0045713237   bg: 0.0019889863   origin: 0.0000000000   inverse_mapping: 0.0011943126   
+End of iteration 46200 	 Number of batches 20 	 Time taken: 3.84s
+[Average Loss] total: 0.0069800927   color: 0.0043472629   bg: 0.0015550226   origin: 0.0000000000   inverse_mapping: 0.0010778072   
+End of iteration 46220 	 Number of batches 20 	 Time taken: 2.83s
+[Average Loss] total: 0.0075782808   color: 0.0050178799   bg: 0.0014935393   origin: 0.0000000000   inverse_mapping: 0.0010668620   
+End of iteration 46240 	 Number of batches 20 	 Time taken: 2.89s
+[Average Loss] total: 0.0087505942   color: 0.0048912964   bg: 0.0027006974   origin: 0.0000000000   inverse_mapping: 0.0011585996   
+End of iteration 46260 	 Number of batches 20 	 Time taken: 2.87s
+[Average Loss] total: 0.0083696852   color: 0.0051522721   bg: 0.0021213237   origin: 0.0000000000   inverse_mapping: 0.0010960897   
+End of iteration 46280 	 Number of batches 20 	 Time taken: 3.39s
+[Average Loss] total: 0.0079347966   color: 0.0047584781   bg: 0.0021807111   origin: 0.0000000000   inverse_mapping: 0.0009956094   
+End of iteration 46300 	 Number of batches 20 	 Time taken: 3.33s
+[Average Loss] total: 0.0077819624   color: 0.0047165081   bg: 0.0021220110   origin: 0.0000000000   inverse_mapping: 0.0009434430   
+End of iteration 46320 	 Number of batches 20 	 Time taken: 2.85s
+[Average Loss] total: 0.0082267812   color: 0.0047357748   bg: 0.0023992246   origin: 0.0000000000   inverse_mapping: 0.0010917815   
+End of iteration 46340 	 Number of batches 20 	 Time taken: 2.85s
+[Average Loss] total: 0.0077688852   color: 0.0044052168   bg: 0.0023801313   origin: 0.0000000000   inverse_mapping: 0.0009835376   
+End of iteration 46360 	 Number of batches 20 	 Time taken: 2.83s
+[Average Loss] total: 0.0069820397   color: 0.0042980881   bg: 0.0017892349   origin: 0.0000000000   inverse_mapping: 0.0008947169   
+End of iteration 46380 	 Number of batches 20 	 Time taken: 3.84s
+[Average Loss] total: 0.0062870346   color: 0.0039441190   bg: 0.0014107567   origin: 0.0000000000   inverse_mapping: 0.0009321573   
+End of iteration 46400 	 Number of batches 20 	 Time taken: 2.96s
+[Average Loss] total: 0.0071353181   color: 0.0043416796   bg: 0.0018488888   origin: 0.0000000000   inverse_mapping: 0.0009447499   
+End of iteration 46420 	 Number of batches 20 	 Time taken: 2.83s
+[Average Loss] total: 0.0071214074   color: 0.0044697747   bg: 0.0016835064   origin: 0.0000000000   inverse_mapping: 0.0009681248   
+End of iteration 46440 	 Number of batches 20 	 Time taken: 2.85s
+[Average Loss] total: 0.0066823387   color: 0.0039869226   bg: 0.0018289294   origin: 0.0000000000   inverse_mapping: 0.0008664864   
+End of iteration 46460 	 Number of batches 20 	 Time taken: 3.23s
+[Average Loss] total: 0.0075429738   color: 0.0045367079   bg: 0.0021236236   origin: 0.0000000000   inverse_mapping: 0.0008826428   
+End of iteration 46480 	 Number of batches 20 	 Time taken: 3.54s
+[Average Loss] total: 0.0077186911   color: 0.0043961415   bg: 0.0023394823   origin: 0.0000000000   inverse_mapping: 0.0009830677   
+End of iteration 46500 	 Number of batches 20 	 Time taken: 2.84s
+[Average Loss] total: 0.0072092968   color: 0.0046545169   bg: 0.0016072635   origin: 0.0000000000   inverse_mapping: 0.0009475169   
+End of iteration 46520 	 Number of batches 20 	 Time taken: 2.84s
+[Average Loss] total: 0.0076789358   color: 0.0044405139   bg: 0.0022784888   origin: 0.0000000000   inverse_mapping: 0.0009599329   
+End of iteration 46540 	 Number of batches 20 	 Time taken: 2.83s
+[Average Loss] total: 0.0070382506   color: 0.0045002201   bg: 0.0016403450   origin: 0.0000000000   inverse_mapping: 0.0008976855   
+End of iteration 46560 	 Number of batches 20 	 Time taken: 3.68s
+[Average Loss] total: 0.0072098807   color: 0.0046098558   bg: 0.0014466331   origin: 0.0000000000   inverse_mapping: 0.0011533907   
+End of iteration 46580 	 Number of batches 20 	 Time taken: 3.06s
+[Average Loss] total: 0.0087461863   color: 0.0051349425   bg: 0.0025160448   origin: 0.0000000000   inverse_mapping: 0.0010951984   
+End of iteration 46600 	 Number of batches 20 	 Time taken: 2.86s
+[Average Loss] total: 0.0078589683   color: 0.0044496609   bg: 0.0024417171   origin: 0.0000000000   inverse_mapping: 0.0009675901   
+End of iteration 46620 	 Number of batches 20 	 Time taken: 2.84s
+[Average Loss] total: 0.0083438708   color: 0.0052524968   bg: 0.0020298201   origin: 0.0000000000   inverse_mapping: 0.0010615538   
+End of iteration 46640 	 Number of batches 20 	 Time taken: 3.12s
+[Average Loss] total: 0.0080960533   color: 0.0050892117   bg: 0.0020236105   origin: 0.0000000000   inverse_mapping: 0.0009832314   
+End of iteration 46660 	 Number of batches 20 	 Time taken: 3.63s
+[Average Loss] total: 0.0078005726   color: 0.0045833657   bg: 0.0021000502   origin: 0.0000000000   inverse_mapping: 0.0011171566   
+End of iteration 46680 	 Number of batches 20 	 Time taken: 2.85s
+[Average Loss] total: 0.0075505297   color: 0.0044744676   bg: 0.0021489270   origin: 0.0000000000   inverse_mapping: 0.0009271339   
+End of iteration 46700 	 Number of batches 20 	 Time taken: 2.84s
+[Average Loss] total: 0.0070737312   color: 0.0041296170   bg: 0.0020360136   origin: 0.0000000000   inverse_mapping: 0.0009081003   
+End of iteration 46720 	 Number of batches 20 	 Time taken: 2.87s
+[Average Loss] total: 0.0070308917   color: 0.0045304028   bg: 0.0015985441   origin: 0.0000000000   inverse_mapping: 0.0009019455   
+End of iteration 46740 	 Number of batches 20 	 Time taken: 3.56s
+[Average Loss] total: 0.0069430196   color: 0.0042722947   bg: 0.0017584959   origin: 0.0000000000   inverse_mapping: 0.0009122289   
+End of iteration 46760 	 Number of batches 20 	 Time taken: 3.24s
+[Average Loss] total: 0.0068785571   color: 0.0043673241   bg: 0.0016522814   origin: 0.0000000000   inverse_mapping: 0.0008589513   
+End of iteration 46780 	 Number of batches 20 	 Time taken: 2.85s
+[Average Loss] total: 0.0073818909   color: 0.0045127990   bg: 0.0018751493   origin: 0.0000000000   inverse_mapping: 0.0009939435   
+End of iteration 46800 	 Number of batches 20 	 Time taken: 2.83s
+[Average Loss] total: 0.0093384301   color: 0.0056629064   bg: 0.0024910381   origin: 0.0000000000   inverse_mapping: 0.0011844853   
+End of iteration 46820 	 Number of batches 20 	 Time taken: 3.03s
+[Average Loss] total: 0.0082166307   color: 0.0048707016   bg: 0.0023418311   origin: 0.0000000000   inverse_mapping: 0.0010040978   
+End of iteration 46840 	 Number of batches 20 	 Time taken: 3.84s
+[Average Loss] total: 0.0076201134   color: 0.0045517008   bg: 0.0021441008   origin: 0.0000000000   inverse_mapping: 0.0009243120   
+End of iteration 46860 	 Number of batches 20 	 Time taken: 2.85s
+[Average Loss] total: 0.0076202364   color: 0.0047508548   bg: 0.0018704418   origin: 0.0000000000   inverse_mapping: 0.0009989385   
+End of iteration 46880 	 Number of batches 20 	 Time taken: 2.84s
+[Average Loss] total: 0.0068760649   color: 0.0045098630   bg: 0.0015217619   origin: 0.0000000000   inverse_mapping: 0.0008444401   
+End of iteration 46900 	 Number of batches 20 	 Time taken: 2.86s
+[Average Loss] total: 0.0074148620   color: 0.0042472351   bg: 0.0022416317   origin: 0.0000000000   inverse_mapping: 0.0009259945   
+End of iteration 46920 	 Number of batches 20 	 Time taken: 3.45s
+[Average Loss] total: 0.0082331961   color: 0.0048011197   bg: 0.0025350803   origin: 0.0000000000   inverse_mapping: 0.0008969958   
+End of iteration 46940 	 Number of batches 20 	 Time taken: 3.29s
+[Average Loss] total: 0.0074590850   color: 0.0045074560   bg: 0.0021488755   origin: 0.0000000000   inverse_mapping: 0.0008027537   
+End of iteration 46960 	 Number of batches 20 	 Time taken: 2.90s
+[Average Loss] total: 0.0073798113   color: 0.0041225678   bg: 0.0021879415   origin: 0.0000000000   inverse_mapping: 0.0010693021   
+End of iteration 46980 	 Number of batches 20 	 Time taken: 2.84s
+[Average Loss] total: 0.0080725281   color: 0.0047836150   bg: 0.0023761299   origin: 0.0000000000   inverse_mapping: 0.0009127824   
+End of iteration 47000 	 Number of batches 20 	 Time taken: 2.95s
+[Average Loss] total: 0.0077333893   color: 0.0044366498   bg: 0.0024501025   origin: 0.0000000000   inverse_mapping: 0.0008466372   
+End of iteration 47020 	 Number of batches 20 	 Time taken: 3.93s
+[Average Loss] total: 0.0067181066   color: 0.0043550846   bg: 0.0015576150   origin: 0.0000000000   inverse_mapping: 0.0008054070   
+End of iteration 47040 	 Number of batches 20 	 Time taken: 2.83s
+[Average Loss] total: 0.0078785932   color: 0.0049446570   bg: 0.0019179675   origin: 0.0000000000   inverse_mapping: 0.0010159683   
+End of iteration 47060 	 Number of batches 20 	 Time taken: 2.87s
+[Average Loss] total: 0.0073575154   color: 0.0046656271   bg: 0.0017523867   origin: 0.0000000000   inverse_mapping: 0.0009395021   
+End of iteration 47080 	 Number of batches 20 	 Time taken: 2.84s
+[Average Loss] total: 0.0072310665   color: 0.0043360288   bg: 0.0020422081   origin: 0.0000000000   inverse_mapping: 0.0008528297   
+End of iteration 47100 	 Number of batches 20 	 Time taken: 3.37s
+[Average Loss] total: 0.0066675595   color: 0.0040429765   bg: 0.0017622613   origin: 0.0000000000   inverse_mapping: 0.0008623218   
+End of iteration 47120 	 Number of batches 20 	 Time taken: 3.43s
+[Average Loss] total: 0.0067189122   color: 0.0038397305   bg: 0.0020535458   origin: 0.0000000000   inverse_mapping: 0.0008256356   
+End of iteration 47140 	 Number of batches 20 	 Time taken: 2.84s
+[Average Loss] total: 0.0062338384   color: 0.0039205630   bg: 0.0015111821   origin: 0.0000000000   inverse_mapping: 0.0008020930   
+End of iteration 47160 	 Number of batches 20 	 Time taken: 2.82s
+[Average Loss] total: 0.0065958351   color: 0.0040391623   bg: 0.0017109903   origin: 0.0000000000   inverse_mapping: 0.0008456825   
+End of iteration 47180 	 Number of batches 20 	 Time taken: 2.84s
+[Average Loss] total: 0.0067288042   color: 0.0040810164   bg: 0.0017806803   origin: 0.0000000000   inverse_mapping: 0.0008671071   
+End of iteration 47200 	 Number of batches 20 	 Time taken: 3.81s
+[Average Loss] total: 0.0077529252   color: 0.0045368630   bg: 0.0023846126   origin: 0.0000000000   inverse_mapping: 0.0008314497   
+End of iteration 47220 	 Number of batches 20 	 Time taken: 2.97s
+[Average Loss] total: 0.0081309741   color: 0.0041988646   bg: 0.0030089726   origin: 0.0000000000   inverse_mapping: 0.0009231362   
+End of iteration 47240 	 Number of batches 20 	 Time taken: 2.86s
+[Average Loss] total: 0.0070181242   color: 0.0042823739   bg: 0.0019361876   origin: 0.0000000000   inverse_mapping: 0.0007995631   
+End of iteration 47260 	 Number of batches 20 	 Time taken: 2.82s
+[Average Loss] total: 0.0078609278   color: 0.0053582876   bg: 0.0014488554   origin: 0.0000000000   inverse_mapping: 0.0010537846   
+End of iteration 47280 	 Number of batches 20 	 Time taken: 3.30s
+[Average Loss] total: 0.0075636865   color: 0.0047940416   bg: 0.0018390240   origin: 0.0000000000   inverse_mapping: 0.0009306205   
+End of iteration 47300 	 Number of batches 20 	 Time taken: 3.53s
+[Average Loss] total: 0.0075669922   color: 0.0042744395   bg: 0.0024730894   origin: 0.0000000000   inverse_mapping: 0.0008194624   
+End of iteration 47320 	 Number of batches 20 	 Time taken: 2.84s
+[Average Loss] total: 0.0062379385   color: 0.0040091793   bg: 0.0014954646   origin: 0.0000000000   inverse_mapping: 0.0007332942   
+End of iteration 47340 	 Number of batches 20 	 Time taken: 2.90s
+[Average Loss] total: 0.0075720996   color: 0.0043920963   bg: 0.0022846104   origin: 0.0000000000   inverse_mapping: 0.0008953928   
+End of iteration 47360 	 Number of batches 20 	 Time taken: 2.83s
+[Average Loss] total: 0.0077541694   color: 0.0045209336   bg: 0.0021724266   origin: 0.0000000000   inverse_mapping: 0.0010608103   
+End of iteration 47380 	 Number of batches 20 	 Time taken: 3.70s
+[Average Loss] total: 0.0074776621   color: 0.0041793995   bg: 0.0024393525   origin: 0.0000000000   inverse_mapping: 0.0008589093   
+End of iteration 47400 	 Number of batches 20 	 Time taken: 3.11s
+[Average Loss] total: 0.0071319747   color: 0.0040107928   bg: 0.0023296855   origin: 0.0000000000   inverse_mapping: 0.0007914974   
+End of iteration 47420 	 Number of batches 20 	 Time taken: 2.83s
+[Average Loss] total: 0.0065399944   color: 0.0041836658   bg: 0.0016168312   origin: 0.0000000000   inverse_mapping: 0.0007394979   
+End of iteration 47440 	 Number of batches 20 	 Time taken: 2.83s
+[Average Loss] total: 0.0071051116   color: 0.0042736554   bg: 0.0020080586   origin: 0.0000000000   inverse_mapping: 0.0008233974   
+End of iteration 47460 	 Number of batches 20 	 Time taken: 3.10s
+[Average Loss] total: 0.0068414952   color: 0.0040597934   bg: 0.0019457637   origin: 0.0000000000   inverse_mapping: 0.0008359395   
+End of iteration 47480 	 Number of batches 20 	 Time taken: 3.71s
+[Average Loss] total: 0.0066680643   color: 0.0041462346   bg: 0.0017595763   origin: 0.0000000000   inverse_mapping: 0.0007622525   
+End of iteration 47500 	 Number of batches 20 	 Time taken: 2.83s
+[Average Loss] total: 0.0076759877   color: 0.0043268278   bg: 0.0025043038   origin: 0.0000000000   inverse_mapping: 0.0008448547   
+End of iteration 47520 	 Number of batches 20 	 Time taken: 2.84s
+[Average Loss] total: 0.0070459708   color: 0.0040506325   bg: 0.0020617067   origin: 0.0000000000   inverse_mapping: 0.0009336327   
+End of iteration 47540 	 Number of batches 20 	 Time taken: 2.84s
+[Average Loss] total: 0.0072371862   color: 0.0042439937   bg: 0.0022295639   origin: 0.0000000000   inverse_mapping: 0.0007636295   
+End of iteration 47560 	 Number of batches 20 	 Time taken: 3.52s
+[Average Loss] total: 0.0069160126   color: 0.0044344794   bg: 0.0016175866   origin: 0.0000000000   inverse_mapping: 0.0008639462   
+End of iteration 47580 	 Number of batches 20 	 Time taken: 3.22s
+[Average Loss] total: 0.0070515196   color: 0.0043401951   bg: 0.0018935619   origin: 0.0000000000   inverse_mapping: 0.0008177629   
+End of iteration 47600 	 Number of batches 20 	 Time taken: 2.87s
+[Average Loss] total: 0.0067408304   color: 0.0044837571   bg: 0.0014650114   origin: 0.0000000000   inverse_mapping: 0.0007920619   
+End of iteration 47620 	 Number of batches 20 	 Time taken: 2.84s
+[Average Loss] total: 0.0063040950   color: 0.0038930108   bg: 0.0016142022   origin: 0.0000000000   inverse_mapping: 0.0007968815   
+End of iteration 47640 	 Number of batches 20 	 Time taken: 2.96s
+[Average Loss] total: 0.0068969168   color: 0.0041059810   bg: 0.0019695314   origin: 0.0000000000   inverse_mapping: 0.0008214045   
+End of iteration 47660 	 Number of batches 20 	 Time taken: 3.81s
+[Average Loss] total: 0.0076972591   color: 0.0045222454   bg: 0.0022557171   origin: 0.0000000000   inverse_mapping: 0.0009192964   
+End of iteration 47680 	 Number of batches 20 	 Time taken: 2.83s
+[Average Loss] total: 0.0067225895   color: 0.0044028438   bg: 0.0014939232   origin: 0.0000000000   inverse_mapping: 0.0008258238   
+End of iteration 47700 	 Number of batches 20 	 Time taken: 2.84s
+[Average Loss] total: 0.0069240998   color: 0.0044446439   bg: 0.0016575735   origin: 0.0000000000   inverse_mapping: 0.0008218827   
+End of iteration 47720 	 Number of batches 20 	 Time taken: 2.88s
+[Average Loss] total: 0.0072153159   color: 0.0042056460   bg: 0.0022758974   origin: 0.0000000000   inverse_mapping: 0.0007337721   
+End of iteration 47740 	 Number of batches 20 	 Time taken: 3.42s
+[Average Loss] total: 0.0068050860   color: 0.0041653872   bg: 0.0018125020   origin: 0.0000000000   inverse_mapping: 0.0008271977   
+End of iteration 47760 	 Number of batches 20 	 Time taken: 3.34s
+[Average Loss] total: 0.0066717267   color: 0.0040523415   bg: 0.0018082897   origin: 0.0000000000   inverse_mapping: 0.0008110958   
+End of iteration 47780 	 Number of batches 20 	 Time taken: 2.90s
+[Average Loss] total: 0.0064758449   color: 0.0038943812   bg: 0.0018509660   origin: 0.0000000000   inverse_mapping: 0.0007304973   
+End of iteration 47800 	 Number of batches 20 	 Time taken: 2.83s
+[Average Loss] total: 0.0067106583   color: 0.0038289595   bg: 0.0021391213   origin: 0.0000000000   inverse_mapping: 0.0007425772   
+End of iteration 47820 	 Number of batches 20 	 Time taken: 3.13s
+[Average Loss] total: 0.0070222206   color: 0.0042393627   bg: 0.0020648853   origin: 0.0000000000   inverse_mapping: 0.0007179729   
+End of iteration 47840 	 Number of batches 20 	 Time taken: 4.32s
+[Average Loss] total: 0.0054181991   color: 0.0036163609   bg: 0.0010973073   origin: 0.0000000000   inverse_mapping: 0.0007045306   
+End of iteration 47860 	 Number of batches 20 	 Time taken: 3.50s
+[Average Loss] total: 0.0070468062   color: 0.0042358646   bg: 0.0020951696   origin: 0.0000000000   inverse_mapping: 0.0007157719   
+End of iteration 47880 	 Number of batches 20 	 Time taken: 2.86s
+[Average Loss] total: 0.0070379302   color: 0.0040638144   bg: 0.0022347949   origin: 0.0000000000   inverse_mapping: 0.0007393211   
+End of iteration 47900 	 Number of batches 20 	 Time taken: 2.86s
+[Average Loss] total: 0.0068417131   color: 0.0039813579   bg: 0.0020678437   origin: 0.0000000000   inverse_mapping: 0.0007925117   
+End of iteration 47920 	 Number of batches 20 	 Time taken: 2.86s
+[Average Loss] total: 0.0073591443   color: 0.0046295342   bg: 0.0019076450   origin: 0.0000000000   inverse_mapping: 0.0008219654   
+End of iteration 47940 	 Number of batches 20 	 Time taken: 3.78s
+[Average Loss] total: 0.0059182588   color: 0.0038552906   bg: 0.0012732458   origin: 0.0000000000   inverse_mapping: 0.0007897220   
+End of iteration 47960 	 Number of batches 20 	 Time taken: 3.03s
+[Average Loss] total: 0.0067910142   color: 0.0041055079   bg: 0.0019039868   origin: 0.0000000000   inverse_mapping: 0.0007815193   
+End of iteration 47980 	 Number of batches 20 	 Time taken: 2.85s
+[Average Loss] total: 0.0073011951   color: 0.0044041155   bg: 0.0020875896   origin: 0.0000000000   inverse_mapping: 0.0008094899   
+End of iteration 48000 	 Number of batches 20 	 Time taken: 2.84s
+[Average Loss] total: 0.0071660117   color: 0.0043143891   bg: 0.0019053695   origin: 0.0000000000   inverse_mapping: 0.0009462530   
+End of iteration 48020 	 Number of batches 20 	 Time taken: 3.26s
+[Average Loss] total: 0.0068353387   color: 0.0039676055   bg: 0.0021135246   origin: 0.0000000000   inverse_mapping: 0.0007542075   
+End of iteration 48040 	 Number of batches 20 	 Time taken: 3.52s
+[Average Loss] total: 0.0070554512   color: 0.0041122939   bg: 0.0022347169   origin: 0.0000000000   inverse_mapping: 0.0007084401   
+End of iteration 48060 	 Number of batches 20 	 Time taken: 2.84s
+[Average Loss] total: 0.0064799450   color: 0.0039252248   bg: 0.0018347355   origin: 0.0000000000   inverse_mapping: 0.0007199849   
+End of iteration 48080 	 Number of batches 20 	 Time taken: 2.84s
+[Average Loss] total: 0.0070084231   color: 0.0044393954   bg: 0.0017804991   origin: 0.0000000000   inverse_mapping: 0.0007885289   
+End of iteration 48100 	 Number of batches 20 	 Time taken: 2.84s
+[Average Loss] total: 0.0247049164   color: 0.0066100345   bg: 0.0021511677   origin: 0.0006890416   inverse_mapping: 0.0152546735   
+End of iteration 48120 	 Number of batches 20 	 Time taken: 3.64s
+[Average Loss] total: 0.0211858582   color: 0.0077376650   bg: 0.0019903483   origin: 0.0000000000   inverse_mapping: 0.0114578456   
+End of iteration 48140 	 Number of batches 20 	 Time taken: 3.10s
+[Average Loss] total: 0.0126661509   color: 0.0056506637   bg: 0.0024289782   origin: 0.0000000000   inverse_mapping: 0.0045865080   
+End of iteration 48160 	 Number of batches 20 	 Time taken: 2.89s
+[Average Loss] total: 0.0083363783   color: 0.0049361689   bg: 0.0014456281   origin: 0.0000000000   inverse_mapping: 0.0019545811   
+End of iteration 48180 	 Number of batches 20 	 Time taken: 2.87s
+[Average Loss] total: 0.0077708960   color: 0.0043665315   bg: 0.0018407850   origin: 0.0000000000   inverse_mapping: 0.0015635785   
+End of iteration 48200 	 Number of batches 20 	 Time taken: 3.09s
+[Average Loss] total: 0.0069964104   color: 0.0040569799   bg: 0.0017488819   origin: 0.0000000000   inverse_mapping: 0.0011905482   
+End of iteration 48220 	 Number of batches 20 	 Time taken: 3.66s
+[Average Loss] total: 0.0075825090   color: 0.0041776081   bg: 0.0021778184   origin: 0.0000000000   inverse_mapping: 0.0012270822   
+End of iteration 48240 	 Number of batches 20 	 Time taken: 2.85s
+[Average Loss] total: 0.0072137387   color: 0.0041710231   bg: 0.0019229306   origin: 0.0000000000   inverse_mapping: 0.0011197850   
+End of iteration 48260 	 Number of batches 20 	 Time taken: 2.84s
+[Average Loss] total: 0.0063087828   color: 0.0037776709   bg: 0.0016015582   origin: 0.0000000000   inverse_mapping: 0.0009295538   
+End of iteration 48280 	 Number of batches 20 	 Time taken: 2.82s
+[Average Loss] total: 0.0068604960   color: 0.0040555000   bg: 0.0019232283   origin: 0.0000000000   inverse_mapping: 0.0008817685   
+End of iteration 48300 	 Number of batches 20 	 Time taken: 3.61s
+[Average Loss] total: 0.0068360255   color: 0.0041306168   bg: 0.0018251369   origin: 0.0000000000   inverse_mapping: 0.0008802718   
+End of iteration 48320 	 Number of batches 20 	 Time taken: 3.21s
+[Average Loss] total: 0.0061015836   color: 0.0038251658   bg: 0.0014488562   origin: 0.0000000000   inverse_mapping: 0.0008275617   
+End of iteration 48340 	 Number of batches 20 	 Time taken: 2.84s
+[Average Loss] total: 0.0067976774   color: 0.0039184853   bg: 0.0020528845   origin: 0.0000000000   inverse_mapping: 0.0008263076   
+End of iteration 48360 	 Number of batches 20 	 Time taken: 2.85s
+[Average Loss] total: 0.0071915681   color: 0.0041642613   bg: 0.0021731814   origin: 0.0000000000   inverse_mapping: 0.0008541243   
+End of iteration 48380 	 Number of batches 20 	 Time taken: 2.97s
+[Average Loss] total: 0.0069138273   color: 0.0037243913   bg: 0.0023752043   origin: 0.0000000000   inverse_mapping: 0.0008142308   
+End of iteration 48400 	 Number of batches 20 	 Time taken: 3.86s
+[Average Loss] total: 0.0063245981   color: 0.0037488446   bg: 0.0018162122   origin: 0.0000000000   inverse_mapping: 0.0007595416   
+End of iteration 48420 	 Number of batches 20 	 Time taken: 2.83s
+[Average Loss] total: 0.0066573317   color: 0.0041737193   bg: 0.0016840542   origin: 0.0000000000   inverse_mapping: 0.0007995583   
+End of iteration 48440 	 Number of batches 20 	 Time taken: 2.85s
+[Average Loss] total: 0.0070748860   color: 0.0043600290   bg: 0.0018314461   origin: 0.0000000000   inverse_mapping: 0.0008834102   
+End of iteration 48460 	 Number of batches 20 	 Time taken: 2.84s
+[Average Loss] total: 0.0070548081   color: 0.0046260431   bg: 0.0015770358   origin: 0.0000000000   inverse_mapping: 0.0008517291   
+End of iteration 48480 	 Number of batches 20 	 Time taken: 3.39s
+[Average Loss] total: 0.0068751960   color: 0.0045051011   bg: 0.0016260609   origin: 0.0000000000   inverse_mapping: 0.0007440341   
+End of iteration 48500 	 Number of batches 20 	 Time taken: 3.35s
+[Average Loss] total: 0.0063454704   color: 0.0040163915   bg: 0.0015599428   origin: 0.0000000000   inverse_mapping: 0.0007691359   
+End of iteration 48520 	 Number of batches 20 	 Time taken: 2.86s
+[Average Loss] total: 0.0065999678   color: 0.0039892765   bg: 0.0018542223   origin: 0.0000000000   inverse_mapping: 0.0007564690   
+End of iteration 48540 	 Number of batches 20 	 Time taken: 2.89s
+[Average Loss] total: 0.0065694093   color: 0.0039750515   bg: 0.0018504665   origin: 0.0000000000   inverse_mapping: 0.0007438925   
+End of iteration 48560 	 Number of batches 20 	 Time taken: 2.83s
+[Average Loss] total: 0.0058521884   color: 0.0039613037   bg: 0.0011596420   origin: 0.0000000000   inverse_mapping: 0.0007312422   
+End of iteration 48580 	 Number of batches 20 	 Time taken: 3.79s
+[Average Loss] total: 0.0064080763   color: 0.0038965933   bg: 0.0017589929   origin: 0.0000000000   inverse_mapping: 0.0007524900   
+End of iteration 48600 	 Number of batches 20 	 Time taken: 2.92s
+[Average Loss] total: 0.0083084805   color: 0.0047466322   bg: 0.0027209423   origin: 0.0000000000   inverse_mapping: 0.0008409057   
+End of iteration 48620 	 Number of batches 20 	 Time taken: 2.84s
+[Average Loss] total: 0.0066303746   color: 0.0045046387   bg: 0.0013772093   origin: 0.0000000000   inverse_mapping: 0.0007485261   
+End of iteration 48640 	 Number of batches 20 	 Time taken: 2.83s
+[Average Loss] total: 1.5930989981   color: 0.0125593320   bg: 0.0021939329   origin: 1.5197428465   inverse_mapping: 0.0586029366   
+End of iteration 48660 	 Number of batches 20 	 Time taken: 3.30s
+[Average Loss] total: 0.3759970665   color: 0.0194926076   bg: 0.0063653090   origin: 0.0000000000   inverse_mapping: 0.3501392007   
+End of iteration 48680 	 Number of batches 20 	 Time taken: 3.52s
+[Average Loss] total: 0.2932884395   color: 0.0274397414   bg: 0.0441079736   origin: 0.0000000000   inverse_mapping: 0.2217407227   
+End of iteration 48700 	 Number of batches 20 	 Time taken: 2.93s
+[Average Loss] total: 0.1655691266   color: 0.0219998080   bg: 0.0144666201   origin: 0.0000000000   inverse_mapping: 0.1291027069   
+End of iteration 48720 	 Number of batches 20 	 Time taken: 2.86s
+[Average Loss] total: 0.1336095184   color: 0.0230486803   bg: 0.0063123195   origin: 0.0000000000   inverse_mapping: 0.1042485163   
+End of iteration 48740 	 Number of batches 20 	 Time taken: 2.86s
+[Average Loss] total: 0.1165896878   color: 0.0173311513   bg: 0.0059306528   origin: 0.0000000000   inverse_mapping: 0.0933278725   
+End of iteration 48760 	 Number of batches 20 	 Time taken: 3.73s
+[Average Loss] total: 0.1104492098   color: 0.0129784187   bg: 0.0070865452   origin: 0.0000000000   inverse_mapping: 0.0903842449   
+End of iteration 48780 	 Number of batches 20 	 Time taken: 3.04s
+[Average Loss] total: 0.1031154916   color: 0.0118336491   bg: 0.0058867410   origin: 0.0000000000   inverse_mapping: 0.0853951052   
+End of iteration 48800 	 Number of batches 20 	 Time taken: 2.84s
+[Average Loss] total: 0.0935171545   color: 0.0120095434   bg: 0.0054412032   origin: 0.0000000000   inverse_mapping: 0.0760664269   
+End of iteration 48820 	 Number of batches 20 	 Time taken: 2.84s
+[Average Loss] total: 0.0883917734   color: 0.0116923591   bg: 0.0050784438   origin: 0.0000000000   inverse_mapping: 0.0716209635   
+End of iteration 48840 	 Number of batches 20 	 Time taken: 3.19s
+[Average Loss] total: 0.0764616951   color: 0.0104384935   bg: 0.0041875313   origin: 0.0000000000   inverse_mapping: 0.0618356727   
+End of iteration 48860 	 Number of batches 20 	 Time taken: 3.69s
+[Average Loss] total: 0.0709127039   color: 0.0090586767   bg: 0.0044042883   origin: 0.0000000000   inverse_mapping: 0.0574497357   
+End of iteration 48880 	 Number of batches 20 	 Time taken: 2.89s
+[Average Loss] total: 0.0652611330   color: 0.0095678130   bg: 0.0034619351   origin: 0.0000000000   inverse_mapping: 0.0522313900   
+End of iteration 48900 	 Number of batches 20 	 Time taken: 2.86s
+[Average Loss] total: 0.0556017943   color: 0.0088568050   bg: 0.0028808077   origin: 0.0000000000   inverse_mapping: 0.0438641794   
+End of iteration 48920 	 Number of batches 20 	 Time taken: 2.85s
+[Average Loss] total: 0.0559948348   color: 0.0099076992   bg: 0.0035943128   origin: 0.0000000000   inverse_mapping: 0.0424928181   
+End of iteration 48940 	 Number of batches 20 	 Time taken: 3.63s
+[Average Loss] total: 0.0453989133   color: 0.0086473478   bg: 0.0031499069   origin: 0.0000000000   inverse_mapping: 0.0336016566   
+End of iteration 48960 	 Number of batches 20 	 Time taken: 2.84s
+[Average Loss] total: 0.0446777754   color: 0.0087688928   bg: 0.0027175148   origin: 0.0000000000   inverse_mapping: 0.0331913643   
+End of iteration 48980 	 Number of batches 20 	 Time taken: 2.86s
+[Average Loss] total: 0.0387535356   color: 0.0085641313   bg: 0.0025502488   origin: 0.0000000000   inverse_mapping: 0.0276391562   
+End of iteration 49000 	 Number of batches 20 	 Time taken: 2.85s
+[Average Loss] total: 0.0398417376   color: 0.0086546801   bg: 0.0024775639   origin: 0.0000000000   inverse_mapping: 0.0287094917   
+End of iteration 49020 	 Number of batches 20 	 Time taken: 3.42s
+[Average Loss] total: 0.0384585001   color: 0.0088594435   bg: 0.0036572013   origin: 0.0000000000   inverse_mapping: 0.0259418543   
+End of iteration 49040 	 Number of batches 20 	 Time taken: 2.94s
+[Average Loss] total: 0.0385022648   color: 0.0093135675   bg: 0.0027335635   origin: 0.0000000000   inverse_mapping: 0.0264551379   
+End of iteration 49060 	 Number of batches 20 	 Time taken: 2.85s
+[Average Loss] total: 0.0336639695   color: 0.0085880561   bg: 0.0025259908   origin: 0.0000000000   inverse_mapping: 0.0225499272   
+End of iteration 49080 	 Number of batches 20 	 Time taken: 2.83s
+[Average Loss] total: 0.0310436375   color: 0.0086515499   bg: 0.0020156549   origin: 0.0000000000   inverse_mapping: 0.0203764327   
+End of iteration 49100 	 Number of batches 20 	 Time taken: 3.22s
+[Average Loss] total: 0.0333454534   color: 0.0090835206   bg: 0.0021528837   origin: 0.0000000000   inverse_mapping: 0.0221090484   
+End of iteration 49120 	 Number of batches 20 	 Time taken: 3.19s
+[Average Loss] total: 0.0289526340   color: 0.0079519376   bg: 0.0022758385   origin: 0.0000000000   inverse_mapping: 0.0187248643   
+End of iteration 49140 	 Number of batches 20 	 Time taken: 2.84s
+[Average Loss] total: 0.0304301735   color: 0.0089173540   bg: 0.0021535498   origin: 0.0000000000   inverse_mapping: 0.0193592738   
+End of iteration 49160 	 Number of batches 20 	 Time taken: 2.86s
+[Average Loss] total: 0.0288968589   color: 0.0080978647   bg: 0.0022640785   origin: 0.0000000000   inverse_mapping: 0.0185349137   
+End of iteration 49180 	 Number of batches 20 	 Time taken: 3.05s
+[Average Loss] total: 0.0298521053   color: 0.0092668599   bg: 0.0023859057   origin: 0.0000000000   inverse_mapping: 0.0181993376   
+End of iteration 49200 	 Number of batches 20 	 Time taken: 3.35s
+[Average Loss] total: 0.0285429452   color: 0.0087008951   bg: 0.0022833871   origin: 0.0000000000   inverse_mapping: 0.0175586641   
+End of iteration 49220 	 Number of batches 20 	 Time taken: 2.85s
+[Average Loss] total: 0.0279482305   color: 0.0083140358   bg: 0.0023499874   origin: 0.0000000000   inverse_mapping: 0.0172842052   
+End of iteration 49240 	 Number of batches 20 	 Time taken: 2.84s
+[Average Loss] total: 0.0259172469   color: 0.0080766166   bg: 0.0020618502   origin: 0.0000000000   inverse_mapping: 0.0157787800   
+End of iteration 49260 	 Number of batches 20 	 Time taken: 2.88s
+[Average Loss] total: 0.0247735288   color: 0.0082596727   bg: 0.0017862002   origin: 0.0000000000   inverse_mapping: 0.0147276567   
+End of iteration 49280 	 Number of batches 20 	 Time taken: 3.62s
+[Average Loss] total: 0.0242981147   color: 0.0083675859   bg: 0.0020265456   origin: 0.0000000000   inverse_mapping: 0.0139039783   
+End of iteration 49300 	 Number of batches 20 	 Time taken: 2.86s
+[Average Loss] total: 0.0237929076   color: 0.0082698436   bg: 0.0021577557   origin: 0.0000000000   inverse_mapping: 0.0133653060   
+End of iteration 49320 	 Number of batches 20 	 Time taken: 2.86s
+[Average Loss] total: 0.0252419859   color: 0.0085053714   bg: 0.0025447991   origin: 0.0000000000   inverse_mapping: 0.0141918166   
+End of iteration 49340 	 Number of batches 20 	 Time taken: 2.89s
+[Average Loss] total: 0.0238141473   color: 0.0077183470   bg: 0.0027195706   origin: 0.0000000000   inverse_mapping: 0.0133762276   
+End of iteration 49360 	 Number of batches 20 	 Time taken: 3.54s
+[Average Loss] total: 0.0221492499   color: 0.0074564540   bg: 0.0020328325   origin: 0.0000000000   inverse_mapping: 0.0126599642   
+End of iteration 49380 	 Number of batches 20 	 Time taken: 2.83s
+[Average Loss] total: 0.0197839942   color: 0.0076151690   bg: 0.0019600082   origin: 0.0000000000   inverse_mapping: 0.0102088181   
+End of iteration 49400 	 Number of batches 20 	 Time taken: 2.84s
+[Average Loss] total: 0.0202326216   color: 0.0071348450   bg: 0.0019903372   origin: 0.0000000000   inverse_mapping: 0.0111074382   
+End of iteration 49420 	 Number of batches 20 	 Time taken: 2.82s
+[Average Loss] total: 0.0216577072   color: 0.0073835687   bg: 0.0028344046   origin: 0.0000000000   inverse_mapping: 0.0114397313   
+End of iteration 49440 	 Number of batches 20 	 Time taken: 3.47s
+[Average Loss] total: 0.0185143799   color: 0.0065121553   bg: 0.0019224955   origin: 0.0000000000   inverse_mapping: 0.0100797294   
+End of iteration 49460 	 Number of batches 20 	 Time taken: 2.95s
+[Average Loss] total: 0.0205924269   color: 0.0071119056   bg: 0.0029443034   origin: 0.0000000000   inverse_mapping: 0.0105362181   
+End of iteration 49480 	 Number of batches 20 	 Time taken: 2.83s
+[Average Loss] total: 0.0190696605   color: 0.0070517086   bg: 0.0017720495   origin: 0.0000000000   inverse_mapping: 0.0102459025   
+End of iteration 49500 	 Number of batches 20 	 Time taken: 2.86s
+[Average Loss] total: 0.0183001086   color: 0.0073143505   bg: 0.0017702890   origin: 0.0000000000   inverse_mapping: 0.0092154695   
+End of iteration 49520 	 Number of batches 20 	 Time taken: 3.23s
+[Average Loss] total: 0.0197436791   color: 0.0081648957   bg: 0.0021107018   origin: 0.0000000000   inverse_mapping: 0.0094680814   
+End of iteration 49540 	 Number of batches 20 	 Time taken: 3.18s
+[Average Loss] total: 0.0181035642   color: 0.0069854534   bg: 0.0024095129   origin: 0.0000000000   inverse_mapping: 0.0087085990   
+End of iteration 49560 	 Number of batches 20 	 Time taken: 2.85s
+[Average Loss] total: 0.0172157083   color: 0.0068766484   bg: 0.0024183565   origin: 0.0000000000   inverse_mapping: 0.0079207029   
+End of iteration 49580 	 Number of batches 20 	 Time taken: 2.86s
+[Average Loss] total: 0.0167329405   color: 0.0066349744   bg: 0.0020653722   origin: 0.0000000000   inverse_mapping: 0.0080325920   
+End of iteration 49600 	 Number of batches 20 	 Time taken: 3.10s
+[Average Loss] total: 0.0175132379   color: 0.0069401837   bg: 0.0023535460   origin: 0.0000000000   inverse_mapping: 0.0082195094   
+End of iteration 49620 	 Number of batches 20 	 Time taken: 3.31s
+[Average Loss] total: 0.0159747656   color: 0.0067429417   bg: 0.0018018382   origin: 0.0000000000   inverse_mapping: 0.0074299844   
+End of iteration 49640 	 Number of batches 20 	 Time taken: 2.84s
+[Average Loss] total: 0.0160840396   color: 0.0068362392   bg: 0.0022363625   origin: 0.0000000000   inverse_mapping: 0.0070114392   
+End of iteration 49660 	 Number of batches 20 	 Time taken: 2.87s
+[Average Loss] total: 0.0163914803   color: 0.0070463577   bg: 0.0021158580   origin: 0.0000000000   inverse_mapping: 0.0072292662   
+End of iteration 49680 	 Number of batches 20 	 Time taken: 2.89s
+[Average Loss] total: 0.0166304819   color: 0.0069843964   bg: 0.0021000605   origin: 0.0000000000   inverse_mapping: 0.0075460225   
+End of iteration 49700 	 Number of batches 20 	 Time taken: 3.51s
+[Average Loss] total: 0.0166308060   color: 0.0069723823   bg: 0.0026709244   origin: 0.0000000000   inverse_mapping: 0.0069875005   
+End of iteration 49720 	 Number of batches 20 	 Time taken: 2.85s
+[Average Loss] total: 0.0158683211   color: 0.0066069388   bg: 0.0021448052   origin: 0.0000000000   inverse_mapping: 0.0071165785   
+End of iteration 49740 	 Number of batches 20 	 Time taken: 2.86s
+[Average Loss] total: 0.0157865491   color: 0.0068296688   bg: 0.0022818276   origin: 0.0000000000   inverse_mapping: 0.0066750511   
+End of iteration 49760 	 Number of batches 20 	 Time taken: 2.85s
+[Average Loss] total: 0.0153136021   color: 0.0064135115   bg: 0.0020560948   origin: 0.0000000000   inverse_mapping: 0.0068439962   
+End of iteration 49780 	 Number of batches 20 	 Time taken: 3.54s
+[Average Loss] total: 0.0136619797   color: 0.0060303248   bg: 0.0014978893   origin: 0.0000000000   inverse_mapping: 0.0061337664   
+End of iteration 49800 	 Number of batches 20 	 Time taken: 2.84s
+[Average Loss] total: 0.0152889565   color: 0.0062949331   bg: 0.0022515636   origin: 0.0000000000   inverse_mapping: 0.0067424597   
+End of iteration 49820 	 Number of batches 20 	 Time taken: 2.87s
+[Average Loss] total: 0.0134022925   color: 0.0063827797   bg: 0.0015827625   origin: 0.0000000000   inverse_mapping: 0.0054367515   
+End of iteration 49840 	 Number of batches 20 	 Time taken: 2.84s
+[Average Loss] total: 0.0149051938   color: 0.0061167278   bg: 0.0020874729   origin: 0.0000000000   inverse_mapping: 0.0067009926   
+End of iteration 49860 	 Number of batches 20 	 Time taken: 3.50s
+[Average Loss] total: 0.0149174556   color: 0.0068502501   bg: 0.0018972345   origin: 0.0000000000   inverse_mapping: 0.0061699692   
+End of iteration 49880 	 Number of batches 20 	 Time taken: 2.95s
+[Average Loss] total: 0.0149730565   color: 0.0065780999   bg: 0.0022443102   origin: 0.0000000000   inverse_mapping: 0.0061506461   
+End of iteration 49900 	 Number of batches 20 	 Time taken: 2.83s
+[Average Loss] total: 0.0140220989   color: 0.0061202347   bg: 0.0021809081   origin: 0.0000000000   inverse_mapping: 0.0057209572   
+End of iteration 49920 	 Number of batches 20 	 Time taken: 2.86s
+[Average Loss] total: 0.0146527914   color: 0.0065369490   bg: 0.0021393525   origin: 0.0000000000   inverse_mapping: 0.0059764883   
+End of iteration 49940 	 Number of batches 20 	 Time taken: 3.21s
+[Average Loss] total: 0.0151274158   color: 0.0066489563   bg: 0.0018638838   origin: 0.0000000000   inverse_mapping: 0.0066145770   
+End of iteration 49960 	 Number of batches 20 	 Time taken: 3.18s
+[Average Loss] total: 0.0140990112   color: 0.0057994942   bg: 0.0023463671   origin: 0.0000000000   inverse_mapping: 0.0059531485   
+End of iteration 49980 	 Number of batches 20 	 Time taken: 2.83s
+[Average Loss] total: 0.0134492740   color: 0.0059042545   bg: 0.0024678304   origin: 0.0000000000   inverse_mapping: 0.0050771907   
+End of iteration 50000 	 Number of batches 20 	 Time taken: 2.87s
+[Average Loss] total: 0.0135880383   color: 0.0062467661   bg: 0.0021804220   origin: 0.0000000000   inverse_mapping: 0.0051608509   
+End of iteration 50020 	 Number of batches 20 	 Time taken: 975.99s
+[Average Loss] total: 0.0132796010   color: 0.0061596064   bg: 0.0019546072   origin: 0.0000000000   inverse_mapping: 0.0051653869   
+End of iteration 50040 	 Number of batches 20 	 Time taken: 2.86s
+[Average Loss] total: 0.0136977835   color: 0.0063028978   bg: 0.0018078154   origin: 0.0000000000   inverse_mapping: 0.0055870702   
+End of iteration 50060 	 Number of batches 20 	 Time taken: 2.83s
+[Average Loss] total: 0.0132250711   color: 0.0059672059   bg: 0.0019412112   origin: 0.0000000000   inverse_mapping: 0.0053166538   
+End of iteration 50080 	 Number of batches 20 	 Time taken: 3.47s
+[Average Loss] total: 0.0132469404   color: 0.0060752835   bg: 0.0015736338   origin: 0.0000000000   inverse_mapping: 0.0055980221   
+End of iteration 50100 	 Number of batches 20 	 Time taken: 3.33s
+[Average Loss] total: 0.0127154784   color: 0.0060474714   bg: 0.0015561791   origin: 0.0000000000   inverse_mapping: 0.0051118294   
+End of iteration 50120 	 Number of batches 20 	 Time taken: 2.86s
+[Average Loss] total: 0.0140831014   color: 0.0061105844   bg: 0.0028159290   origin: 0.0000000000   inverse_mapping: 0.0051565892   
+End of iteration 50140 	 Number of batches 20 	 Time taken: 2.84s
+[Average Loss] total: 0.0130348979   color: 0.0061958106   bg: 0.0019433288   origin: 0.0000000000   inverse_mapping: 0.0048957597   
+End of iteration 50160 	 Number of batches 20 	 Time taken: 2.89s
+[Average Loss] total: 0.0138709918   color: 0.0058212411   bg: 0.0024566366   origin: 0.0000000000   inverse_mapping: 0.0055931131   
+End of iteration 50180 	 Number of batches 20 	 Time taken: 3.77s
+[Average Loss] total: 0.0118296826   color: 0.0055294987   bg: 0.0014677934   origin: 0.0000000000   inverse_mapping: 0.0048323902   
+End of iteration 50200 	 Number of batches 20 	 Time taken: 2.91s
+[Average Loss] total: 0.0126638254   color: 0.0061366204   bg: 0.0023114574   origin: 0.0000000000   inverse_mapping: 0.0042157476   
+End of iteration 50220 	 Number of batches 20 	 Time taken: 2.85s
+[Average Loss] total: 0.0139658721   color: 0.0059703882   bg: 0.0022082527   origin: 0.0000000000   inverse_mapping: 0.0057872320   
+End of iteration 50240 	 Number of batches 20 	 Time taken: 2.83s
+[Average Loss] total: 0.0132501619   color: 0.0064025111   bg: 0.0025500332   origin: 0.0000000000   inverse_mapping: 0.0042976188   
+End of iteration 50260 	 Number of batches 20 	 Time taken: 3.31s
+[Average Loss] total: 0.0126338629   color: 0.0059681823   bg: 0.0020069275   origin: 0.0000000000   inverse_mapping: 0.0046587531   
+End of iteration 50280 	 Number of batches 20 	 Time taken: 3.45s
+[Average Loss] total: 0.0134695545   color: 0.0062906067   bg: 0.0023448961   origin: 0.0000000000   inverse_mapping: 0.0048340522   
+End of iteration 50300 	 Number of batches 20 	 Time taken: 2.82s
+[Average Loss] total: 0.0115977898   color: 0.0053089513   bg: 0.0018259634   origin: 0.0000000000   inverse_mapping: 0.0044628764   
+End of iteration 50320 	 Number of batches 20 	 Time taken: 2.84s
+[Average Loss] total: 0.0133169787   color: 0.0063890517   bg: 0.0023350611   origin: 0.0000000000   inverse_mapping: 0.0045928648   
+End of iteration 50340 	 Number of batches 20 	 Time taken: 2.84s
+[Average Loss] total: 0.0131374020   color: 0.0061227675   bg: 0.0025231862   origin: 0.0000000000   inverse_mapping: 0.0044914479   
+End of iteration 50360 	 Number of batches 20 	 Time taken: 3.73s
+[Average Loss] total: 0.0118788676   color: 0.0054943152   bg: 0.0019603949   origin: 0.0000000000   inverse_mapping: 0.0044241562   
+End of iteration 50380 	 Number of batches 20 	 Time taken: 3.08s
+[Average Loss] total: 0.0107136695   color: 0.0054407516   bg: 0.0013643141   origin: 0.0000000000   inverse_mapping: 0.0039086039   
+End of iteration 50400 	 Number of batches 20 	 Time taken: 2.85s
+[Average Loss] total: 0.0119393636   color: 0.0057418160   bg: 0.0019770137   origin: 0.0000000000   inverse_mapping: 0.0042205337   
+End of iteration 50420 	 Number of batches 20 	 Time taken: 2.86s
+[Average Loss] total: 0.0131110176   color: 0.0057251542   bg: 0.0024172326   origin: 0.0000000000   inverse_mapping: 0.0049686292   
+End of iteration 50440 	 Number of batches 20 	 Time taken: 3.19s
+[Average Loss] total: 0.0114181573   color: 0.0056434995   bg: 0.0018900000   origin: 0.0000000000   inverse_mapping: 0.0038846568   
+End of iteration 50460 	 Number of batches 20 	 Time taken: 3.59s
+[Average Loss] total: 0.0122743612   color: 0.0055932137   bg: 0.0027951475   origin: 0.0000000000   inverse_mapping: 0.0038859982   
+End of iteration 50480 	 Number of batches 20 	 Time taken: 2.86s
+[Average Loss] total: 0.0117358472   color: 0.0053487355   bg: 0.0021509586   origin: 0.0000000000   inverse_mapping: 0.0042361524   
+End of iteration 50500 	 Number of batches 20 	 Time taken: 2.84s
+[Average Loss] total: 0.0113255000   color: 0.0059661679   bg: 0.0015157004   origin: 0.0000000000   inverse_mapping: 0.0038436316   
+End of iteration 50520 	 Number of batches 20 	 Time taken: 2.99s
+[Average Loss] total: 0.0117979432   color: 0.0061202557   bg: 0.0020727250   origin: 0.0000000000   inverse_mapping: 0.0036049639   
+End of iteration 50540 	 Number of batches 20 	 Time taken: 3.68s
+[Average Loss] total: 0.0115615446   color: 0.0053712060   bg: 0.0020664129   origin: 0.0000000000   inverse_mapping: 0.0041239266   
+End of iteration 50560 	 Number of batches 20 	 Time taken: 3.08s
+[Average Loss] total: 0.0107787233   color: 0.0050947838   bg: 0.0019920783   origin: 0.0000000000   inverse_mapping: 0.0036918621   
+End of iteration 50580 	 Number of batches 20 	 Time taken: 3.71s
+[Average Loss] total: 0.0110202832   color: 0.0055839038   bg: 0.0019859979   origin: 0.0000000000   inverse_mapping: 0.0034503818   
+End of iteration 50600 	 Number of batches 20 	 Time taken: 3.15s
+[Average Loss] total: 0.0118494602   color: 0.0059728152   bg: 0.0022845266   origin: 0.0000000000   inverse_mapping: 0.0035921168   
+End of iteration 50620 	 Number of batches 20 	 Time taken: 3.58s
+[Average Loss] total: 0.0110582961   color: 0.0056735221   bg: 0.0019416362   origin: 0.0000000000   inverse_mapping: 0.0034431373   
+End of iteration 50640 	 Number of batches 20 	 Time taken: 3.24s
+[Average Loss] total: 0.0115292845   color: 0.0056071416   bg: 0.0023178961   origin: 0.0000000000   inverse_mapping: 0.0036042470   
+End of iteration 50660 	 Number of batches 20 	 Time taken: 2.88s
+[Average Loss] total: 0.0111756772   color: 0.0051295059   bg: 0.0028312111   origin: 0.0000000000   inverse_mapping: 0.0032149607   
+End of iteration 50680 	 Number of batches 20 	 Time taken: 2.84s
+[Average Loss] total: 0.0114291925   color: 0.0056164935   bg: 0.0021478941   origin: 0.0000000000   inverse_mapping: 0.0036648044   
+End of iteration 50700 	 Number of batches 20 	 Time taken: 3.03s
+[Average Loss] total: 0.0112496885   color: 0.0052317022   bg: 0.0025254667   origin: 0.0000000000   inverse_mapping: 0.0034925209   
+End of iteration 50720 	 Number of batches 20 	 Time taken: 3.81s
+[Average Loss] total: 0.0103254719   color: 0.0052236142   bg: 0.0018489618   origin: 0.0000000000   inverse_mapping: 0.0032528953   
+End of iteration 50740 	 Number of batches 20 	 Time taken: 2.90s
+[Average Loss] total: 0.0116129396   color: 0.0058275959   bg: 0.0023994984   origin: 0.0000000000   inverse_mapping: 0.0033858449   
+End of iteration 50760 	 Number of batches 20 	 Time taken: 2.86s
+[Average Loss] total: 0.0114324512   color: 0.0058048251   bg: 0.0021826120   origin: 0.0000000000   inverse_mapping: 0.0034450148   
+End of iteration 50780 	 Number of batches 20 	 Time taken: 2.84s
+[Average Loss] total: 0.0112056732   color: 0.0059445454   bg: 0.0021994438   origin: 0.0000000000   inverse_mapping: 0.0030616841   
+End of iteration 50800 	 Number of batches 20 	 Time taken: 3.41s
+[Average Loss] total: 0.0115724271   color: 0.0058549750   bg: 0.0024622413   origin: 0.0000000000   inverse_mapping: 0.0032552094   
+End of iteration 50820 	 Number of batches 20 	 Time taken: 3.37s
+[Average Loss] total: 0.0110023012   color: 0.0051982454   bg: 0.0025435810   origin: 0.0000000000   inverse_mapping: 0.0032604747   
+End of iteration 50840 	 Number of batches 20 	 Time taken: 2.86s
+[Average Loss] total: 0.0103977947   color: 0.0051682717   bg: 0.0021346454   origin: 0.0000000000   inverse_mapping: 0.0030948778   
+End of iteration 50860 	 Number of batches 20 	 Time taken: 2.85s
+[Average Loss] total: 0.0109069338   color: 0.0053524696   bg: 0.0021161148   origin: 0.0000000000   inverse_mapping: 0.0034383477   
+End of iteration 50880 	 Number of batches 20 	 Time taken: 2.85s
+[Average Loss] total: 0.0101550538   color: 0.0052708304   bg: 0.0021756783   origin: 0.0000000000   inverse_mapping: 0.0027085454   
+End of iteration 50900 	 Number of batches 20 	 Time taken: 3.88s
+[Average Loss] total: 0.0112926802   color: 0.0056005768   bg: 0.0027231651   origin: 0.0000000000   inverse_mapping: 0.0029689388   
+End of iteration 50920 	 Number of batches 20 	 Time taken: 2.93s
+[Average Loss] total: 0.0116103711   color: 0.0058253552   bg: 0.0022696673   origin: 0.0000000000   inverse_mapping: 0.0035153471   
+End of iteration 50940 	 Number of batches 20 	 Time taken: 2.86s
+[Average Loss] total: 0.0107431132   color: 0.0055012135   bg: 0.0022767265   origin: 0.0000000000   inverse_mapping: 0.0029651728   
+End of iteration 50960 	 Number of batches 20 	 Time taken: 2.85s
+[Average Loss] total: 0.0107300160   color: 0.0056393216   bg: 0.0019022580   origin: 0.0000000000   inverse_mapping: 0.0031884362   
+End of iteration 50980 	 Number of batches 20 	 Time taken: 3.30s
+[Average Loss] total: 0.0103470227   color: 0.0048954119   bg: 0.0022994066   origin: 0.0000000000   inverse_mapping: 0.0031522021   
+End of iteration 51000 	 Number of batches 20 	 Time taken: 3.52s
+[Average Loss] total: 0.0100509441   color: 0.0054323925   bg: 0.0017575147   origin: 0.0000000000   inverse_mapping: 0.0028610369   
+End of iteration 51020 	 Number of batches 20 	 Time taken: 3.15s
+[Average Loss] total: 0.0094980998   color: 0.0051089185   bg: 0.0016563397   origin: 0.0000000000   inverse_mapping: 0.0027328411   
+End of iteration 51040 	 Number of batches 20 	 Time taken: 2.97s
+[Average Loss] total: 0.0108468626   color: 0.0051883212   bg: 0.0027874343   origin: 0.0000000000   inverse_mapping: 0.0028711064   
+End of iteration 51060 	 Number of batches 20 	 Time taken: 3.16s
+[Average Loss] total: 0.0104945581   color: 0.0056017712   bg: 0.0017619334   origin: 0.0000000000   inverse_mapping: 0.0031308529   
+End of iteration 51080 	 Number of batches 20 	 Time taken: 3.92s
+[Average Loss] total: 0.0113129690   color: 0.0055539445   bg: 0.0027077284   origin: 0.0000000000   inverse_mapping: 0.0030512966   
+End of iteration 51100 	 Number of batches 20 	 Time taken: 2.88s
+[Average Loss] total: 0.0105979433   color: 0.0054792450   bg: 0.0021594991   origin: 0.0000000000   inverse_mapping: 0.0029591999   
+End of iteration 51120 	 Number of batches 20 	 Time taken: 2.84s
+[Average Loss] total: 0.0100839818   color: 0.0052581015   bg: 0.0021748897   origin: 0.0000000000   inverse_mapping: 0.0026509911   
+End of iteration 51140 	 Number of batches 20 	 Time taken: 2.87s
+[Average Loss] total: 0.0097930990   color: 0.0053915600   bg: 0.0018871814   origin: 0.0000000000   inverse_mapping: 0.0025143588   
