@@ -46,7 +46,7 @@ class DtuDataset(BaseDataset):
 
     def initialize(self, opt):
         self.opt = opt
-        self.data_dir = opt.data_root
+        self.data_dir = "/content/NeuTex/run/DTU/scan114/trainData"
 
         self.campos = np.load(self.data_dir + "/in_camOrgs.npy")
         self.camat = np.load(self.data_dir + "/in_camAts.npy")
